@@ -443,6 +443,7 @@
       "cooked_mutton": "2024-12-11 06:50:10 +0000",
       "sweet_berries": "2024-12-11 05:42:32 +0000",
       "cooked_beef": "2024-12-11 07:06:36 +0000",
+      "baked_potato": "2024-12-12 23:42:44 +0000",
       "porkchop": "2024-12-11 07:06:25 +0000",
       "apple": "2024-12-12 03:40:53 +0000",
       "cooked_cod": "2024-12-12 01:23:34 +0000",
@@ -2676,6 +2677,36 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2024-12-12 07:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-12 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-12 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-12 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-12 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-12 23:46:07 +0000"
     },
     "done": true
   },
