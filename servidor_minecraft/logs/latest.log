@@ -227,3 +227,11 @@
 [23:13:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6167ms or 123 ticks behind
 [23:14:39] [Server thread/INFO]: pitulinaso lost connection: Disconnected
 [23:14:39] [Server thread/INFO]: pitulinaso left the game
+[23:30:46] [Server thread/INFO]: violetfoxx[/172.25.212.71:56036] logged in with entity id 426 at (459.30000001192093, 41.0, -989.3000000119209)
+[23:30:46] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
+[23:30:46] [Server thread/INFO]: violetfoxx joined the game
+[23:30:48] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
+[23:30:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:30:59] [Server thread/INFO]: iuy<--[HERE]
+[23:37:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:37:09] [Server thread/INFO]: njb<--[HERE]
