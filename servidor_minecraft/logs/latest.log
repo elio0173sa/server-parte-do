@@ -929,3 +929,16 @@
 [17:44:00] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
 [17:44:28] [Server thread/INFO]: violetfoxx lost connection: Timed out
 [17:44:28] [Server thread/INFO]: violetfoxx left the game
+[17:53:29] [Server thread/INFO]: violetfoxx[/172.25.212.71:54637] logged in with entity id 88747 at (396.87727400852077, 79.0, -990.2491909489995)
+[17:53:29] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
+[17:53:29] [Server thread/INFO]: violetfoxx joined the game
+[17:53:31] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
+[17:54:41] [Server thread/WARN]: violetfoxx moved too quickly! -9.807821561943399,-1.0013359791121417,-1.8761257591004323
+[17:55:03] [Server thread/WARN]: violetfoxx was kicked for floating too long!
+[17:55:04] [Server thread/INFO]: violetfoxx lost connection: Flying is not enabled on this server
+[17:55:04] [Server thread/INFO]: violetfoxx left the game
+[17:55:17] [Server thread/INFO]: violetfoxx[/172.25.212.71:51358] logged in with entity id 89451 at (403.3972491589967, 79.6906999805212, -980.1957108837075)
+[17:55:17] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
+[17:55:17] [Server thread/INFO]: violetfoxx joined the game
+[17:55:18] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
+[17:56:02] [Server thread/WARN]: violetfoxx moved too quickly! -9.213679178861753,2.7531999805212024,-3.392744476917983
