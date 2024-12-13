@@ -2734,5 +2734,11 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/garlic_bread": {
+    "criteria": {
+      "has_item": "2024-12-13 00:09:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
