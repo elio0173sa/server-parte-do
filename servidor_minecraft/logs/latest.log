@@ -980,3 +980,14 @@
 [18:25:44] [Server thread/INFO]: [Not Secure] <EmpaXG04> cldo, es una super araña la tuya?
 [18:25:50] [Server thread/INFO]: violetfoxx lost connection: Timed out
 [18:25:50] [Server thread/INFO]: violetfoxx left the game
+[18:27:54] [Server thread/INFO]: violetfoxx[/172.25.212.71:52995] logged in with entity id 103833 at (480.9140107540909, 79.0, -993.6596336854238)
+[18:27:54] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
+[18:27:54] [Server thread/INFO]: violetfoxx joined the game
+[18:27:56] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
+[18:28:26] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 482, 79, -995, minecraft:overworld
+[18:29:43] [Server thread/INFO]: [Not Secure] <violetfoxx> ahoraaaaa seeeee
+[18:29:56] [Server thread/INFO]: [Not Secure] <violetfoxx> lpm no me tolera el joymap
+[18:30:05] [Server thread/INFO]: [Not Secure] <violetfoxx> o no me acuerdo como se llama
+[18:30:10] [Server thread/INFO]: [Not Secure] <violetfoxx> :(
+[18:30:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1155, y=75, z=-1697} class_2338{x=-1155, y=73, z=-1696}
+[18:30:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1155, y=75, z=-1697} class_2338{x=-1155, y=73, z=-1696}
