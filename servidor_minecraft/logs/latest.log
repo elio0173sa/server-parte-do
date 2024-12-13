@@ -257,3 +257,15 @@
 [04:42:50] [pool-4-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=3397, y=91, z=-3627}
 [04:43:22] [Server thread/INFO]: pitulinaso fell from a high place
 [04:43:31] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 3406, 101, -3427, minecraft:overworld
+[04:45:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:45:46] [Server thread/INFO]: nbvm<--[HERE]
+[04:46:34] [Server thread/INFO]: violetfoxx has made the advancement [Voluntary Exile]
+[04:46:53] [Worker-Main-9/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[04:47:23] [Server thread/INFO]: violetfoxx was slain by Zombie
+[04:47:24] [Server thread/INFO]: violetfoxx lost connection: Timed out
+[04:47:24] [Server thread/INFO]: violetfoxx left the game
+[04:48:48] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04:48:48] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04:48:48] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04:48:48] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04:48:48] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
