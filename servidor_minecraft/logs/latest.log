@@ -241,3 +241,17 @@
 [22:27:02] [Server thread/INFO]: Did not backup data (grave data empty)
 [22:27:35] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 187.500000, -45.000000, -737.500000]
 [22:27:37] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 185, -45, -738, minecraft:overworld
+[22:32:23] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 397.500000, 79.000000, -1004.500000]
+[22:32:35] [Server thread/INFO]: violetfoxx lost connection: Disconnected
+[22:32:35] [Server thread/INFO]: violetfoxx left the game
+[22:33:14] [Server thread/INFO]: Stopping the server
+[22:33:14] [Server thread/INFO]: Stopping server
+[22:33:14] [Server thread/INFO]: Saving players
+[22:33:14] [Server thread/INFO]: Saving worlds
+[22:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:33:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:33:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
