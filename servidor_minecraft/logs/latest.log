@@ -493,3 +493,8 @@
 [15:31:14] [Server thread/INFO]: EmpaXG04 left the game
 [15:41:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [15:41:13] [Server thread/INFO]: jk<--[HERE]
+[15:46:03] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at -539, 96, 805, minecraft:overworld
+[15:49:51] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[15:49:51] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[15:50:30] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[15:51:20] [Server thread/INFO]: [pitulinaso: Set the weather to clear]
