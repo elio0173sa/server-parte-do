@@ -28,6 +28,7 @@
       "minecraft:bamboo_jungle": "2024-12-13 02:45:47 +0000",
       "minecraft:beach": "2024-12-11 05:08:33 +0000",
       "minecraft:dark_forest": "2024-12-12 01:53:05 +0000",
+      "minecraft:mangrove_swamp": "2024-12-13 03:46:52 +0000",
       "minecraft:sparse_jungle": "2024-12-13 02:27:55 +0000",
       "minecraft:river": "2024-12-11 04:59:41 +0000",
       "minecraft:snowy_plains": "2024-12-11 05:30:57 +0000",
@@ -3234,27 +3235,15 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/witch_cauldron": {
+  "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
-      "has_item": "2024-12-13 02:50:27 +0000"
+      "has_log": "2024-12-13 02:22:29 +0000"
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "has_item": "2024-12-13 02:54:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/flute": {
-    "criteria": {
-      "has_bamboo": "2024-12-13 02:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-13 02:54:17 +0000"
+      "has_log": "2024-12-13 02:22:29 +0000"
     },
     "done": true
   },
@@ -3264,9 +3253,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_wood": {
+  "supplementaries:recipes/flute": {
     "criteria": {
-      "has_log": "2024-12-13 02:22:29 +0000"
+      "has_bamboo": "2024-12-13 02:45:36 +0000"
     },
     "done": true
   },
@@ -3282,21 +3271,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-12-13 02:54:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-13 02:45:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "bewitchment:recipes/decorations/witch_cauldron": {
     "criteria": {
-      "has_log": "2024-12-13 02:22:29 +0000"
+      "has_item": "2024-12-13 02:50:27 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2024-12-13 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-13 02:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-13 02:54:17 +0000"
     },
     "done": true
   },

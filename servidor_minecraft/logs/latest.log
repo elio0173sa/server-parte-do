@@ -338,3 +338,18 @@
 [03:28:11] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 450, 63, -1063, minecraft:overworld
 [03:28:15] [Server thread/INFO]: pitulinaso was shot by Skeleton
 [03:30:45] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 130.500000, 64.000000, -983.500000]
+[03:35:20] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 397.500000, 79.000000, -1004.500000]
+[03:40:27] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 130.500000, 64.000000, -985.500000]
+[03:42:09] [Server thread/INFO]: EmpaXG04[/172.25.58.124:49756] logged in with entity id 63047 at (-1160.2224773390662, 75.0, -1722.8654621243445)
+[03:42:09] [Server thread/INFO]: Syncing config to EmpaXG04 (6108b51e-516d-3e08-b844-60027275940a)
+[03:42:09] [Server thread/INFO]: EmpaXG04 joined the game
+[03:42:09] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player EmpaXG04. Claiming: GRAVE / Robbing: INVENTORY
+[03:48:20] [pool-4-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-4741, y=67, z=-1403}
+[03:50:41] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 397.500000, 79.000000, -1004.500000]
+[03:51:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:51:11] [Server thread/INFO]: ijo<--[HERE]
+[03:51:25] [Worker-Main-68/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03:51:25] [Worker-Main-68/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03:54:33] [Server thread/INFO]: pitulinaso was blown up by Badlands Creeper
+[03:54:49] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 3002, 77, -2212, minecraft:overworld
+[03:54:54] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 3002, 80, -2210, minecraft:overworld
