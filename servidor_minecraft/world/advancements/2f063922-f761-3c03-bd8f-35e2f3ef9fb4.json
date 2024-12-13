@@ -2838,7 +2838,7 @@
   },
   "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "requirement": "2024-12-13 16:08:53 +0000"
+      "requirement": "2024-12-13 16:35:17 +0000"
     },
     "done": true
   },
@@ -2920,9 +2920,21 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner2": {
+    "criteria": {
+      "c1": "2024-12-13 16:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-13 16:26:32 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/illusioner_kill": {
+    "criteria": {
+      "c1": "2024-12-13 16:35:16 +0000"
     },
     "done": true
   },
@@ -2941,6 +2953,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2024-12-13 16:23:55 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusionerkill": {
+    "criteria": {
+      "c1": "2024-12-13 16:35:16 +0000"
     },
     "done": true
   },
