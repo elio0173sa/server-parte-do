@@ -1,12 +1,12 @@
-[14:50:59] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[14:50:59] [ForkJoinPool-1-worker-2/WARN]: Mod levelz uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[14:50:59] [ForkJoinPool-1-worker-2/WARN]: Mod adventurez uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[14:50:59] [ForkJoinPool-1-worker-2/WARN]: Mod theorcs uses the version fabric-1.20.x-1.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[14:51:00] [ForkJoinPool-1-worker-1/WARN]: Mod ultris_mr uses the version 5.6.9c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[14:51:00] [main/WARN]: Warnings were found!
+[21:47:00] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[21:47:00] [ForkJoinPool-1-worker-3/WARN]: Mod levelz uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:47:00] [ForkJoinPool-1-worker-3/WARN]: Mod adventurez uses the version ${version} which isn't compatible with Loader's extended semantic version format (Could not parse version number component '${version}'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:47:00] [ForkJoinPool-1-worker-2/WARN]: Mod theorcs uses the version fabric-1.20.x-1.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:47:00] [ForkJoinPool-1-worker-2/WARN]: Mod ultris_mr uses the version 5.6.9c which isn't compatible with Loader's extended semantic version format (Could not parse version number component '9c'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:47:00] [main/WARN]: Warnings were found!
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[14:51:00] [main/INFO]: Loading 96 mods:
+[21:47:00] [main/INFO]: Loading 96 mods:
 	- adventurez 1.4.20
 	- amendments 1.20-1.2.12
 	- architectury 9.2.14
@@ -118,896 +118,116 @@
 	        |-- jankson 6.0.0+j1.2.3
 	        |    \-- blue_endless_jankson 1.2.3
 	        \-- libninepatch 1.2.0
-[14:51:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server-parte-do/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:51:00] [main/INFO]: Compatibility level set to JAVA_17
-[14:51:00] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:51:01] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:51:01] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[14:51:01] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[14:51:01] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
-[14:51:01] [main/WARN]: Error loading class: com/tiviacz/travelersbackpack/compat/trinkets/TravelersBackpackTrinket (java.lang.ClassNotFoundException: com/tiviacz/travelersbackpack/compat/trinkets/TravelersBackpackTrinket)
-[14:51:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14:51:12] [main/INFO]: Loaded config amendments-common.json
-[14:51:14] [main/INFO]: fabric loader environment detected
-[14:51:14] [main/ERROR]: No data fixer registered for jungle_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for bamboo_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for desert_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for badlands_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for hills_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for savannah_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for mushroom_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for swamp_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for dripstone_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for cave_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for dark_oak_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for spruce_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for beach_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for snowy_creeper
-[14:51:14] [main/ERROR]: No data fixer registered for ocean_creeper
-[14:51:14] [main/INFO]: Initializing ServerSide Packet Registries
-[14:51:15] [main/ERROR]: No data fixer registered for battlestandard
-[14:51:15] [main/ERROR]: No data fixer registered for battlestandarddark
-[14:51:15] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
-[14:51:15] [main/INFO]: [STDOUT]: /workspaces/server-parte-do/servidor_minecraft/config
-[14:51:15] [main/INFO]: Loaded config supplementaries-common.json
-[14:51:15] [main/ERROR]: No data fixer registered for theorcs:orc_grunt
-[14:51:15] [main/ERROR]: No data fixer registered for theorcs:orc_shaman
-[14:51:15] [main/ERROR]: No data fixer registered for theorcs:orc_ranger
-[14:51:15] [main/ERROR]: No data fixer registered for theorcs:orc_boss
-[14:51:16] [main/INFO]: Initialized block sets in 14ms
-[14:51:16] [main/ERROR]: No data fixer registered for falling_lantern
-[14:51:16] [main/ERROR]: No data fixer registered for dispenser_minecart
-[14:51:16] [main/ERROR]: No data fixer registered for falling_urn
-[14:51:16] [main/ERROR]: No data fixer registered for falling_ash
-[14:51:16] [main/ERROR]: No data fixer registered for falling_sack
-[14:51:16] [main/ERROR]: No data fixer registered for brick_projectile
-[14:51:16] [main/ERROR]: No data fixer registered for slimeball_projectile
-[14:51:16] [main/ERROR]: No data fixer registered for bomb
-[14:51:16] [main/ERROR]: No data fixer registered for cannonball
-[14:51:16] [main/ERROR]: No data fixer registered for rope_arrow
-[14:51:16] [main/ERROR]: No data fixer registered for slingshot_projectile
-[14:51:17] [main/INFO]: Initialized color sets in 37ms
-[14:51:17] [main/INFO]: Finished mod setup in: [0, 0, 0, 1, 0, 0, 14, 4, 1] ms
-[14:51:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:51:17] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 49 ms
-[14:51:18] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[14:51:19] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[14:51:21] [main/INFO]: Loaded 14 recipes
-[14:51:21] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[14:51:21] [main/INFO]: Loaded 1805 advancements
-[14:51:21] [main/INFO]: Loaded 27 flute songs
-[14:51:21] [main/INFO]: Reloading grave shape (server)
-[14:51:21] [main/INFO]: Grave model and shape reload successful (server)
-[14:51:21] [main/INFO]: Reloading YIGD graveyard data (server)
-[14:51:21] [main/INFO]: Graveyard data successfully reloaded (server)
-[14:51:21] [main/INFO]: Reloading YIGD grave area overrides (server)
-[14:51:21] [main/INFO]: Grave area overrides successfully reloaded (server)
-[14:51:22] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
-[14:51:23] [main/INFO]: Applied 7 data villager trades
-[14:51:23] [main/INFO]: Finished additional setup in 0 ms
-[14:51:23] [main/INFO]: Applied 593 biome modifications to 63 of 64 new biomes in 32.48 ms
-[14:51:23] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:51:23] [Server thread/INFO]: Loading properties
-[14:51:23] [Server thread/INFO]: Default game type: SURVIVAL
-[14:51:23] [Server thread/INFO]: Generating keypair
-[14:51:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:51:24] [Server thread/INFO]: Using epoll channel type
-[14:51:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:51:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:51:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:51:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:51:24] [Server thread/INFO]: Preparing level "world"
-[14:51:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:51:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:51:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:51:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:51:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:51:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:51:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:51:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:51:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:51:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:51:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:51:35] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[14:51:35] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[14:51:36] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[14:51:36] [Server thread/INFO]: Time elapsed: 8667 ms
-[14:51:36] [Server thread/INFO]: Done (12.281s)! For help, type "help"
-[14:51:36] [Server thread/INFO]: Start loading plugin from Jade
-[14:51:36] [Server thread/INFO]: Start loading plugin from Jade
-[14:51:36] [Server thread/INFO]: Start loading plugin from Jade
-[14:51:36] [Server thread/INFO]: Start loading plugin from LevelZ
-[14:51:36] [Server thread/INFO]: Start loading plugin from Supplementaries
-[14:51:46] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[14:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13088ms or 261 ticks behind
-[14:56:25] [Server thread/INFO]: pitulinaso[/172.25.32.15:50114] logged in with entity id 36 at (1218.300000011921, 64.0, 150.30000001192093)
-[14:56:26] [Server thread/INFO]: Syncing config to pitulinaso (f0309d4a-3caf-3830-a605-03a4bb6e87bb)
-[14:56:26] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player pitulinaso. Claiming: GRAVE / Robbing: INVENTORY
-[14:56:29] [Worker-Main-11/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[14:56:32] [Server thread/INFO]: pitulinaso joined the game
-[14:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6336ms or 126 ticks behind
-[14:56:55] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1218, 64, 150, minecraft:overworld
-[14:56:59] [Server thread/INFO]: violetfoxx[/172.25.212.71:49936] logged in with entity id 293 at (450.30000001192093, 50.0, -993.0945397124691)
-[14:56:59] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
-[14:56:59] [Server thread/INFO]: violetfoxx joined the game
-[14:57:01] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
-[14:57:42] [Server thread/INFO]: EmpaXG04[/172.25.58.124:64147] logged in with entity id 613 at (-1160.257777989033, 75.0, -1721.3466330145231)
-[14:57:42] [Server thread/INFO]: Syncing config to EmpaXG04 (6108b51e-516d-3e08-b844-60027275940a)
-[14:57:42] [Server thread/INFO]: EmpaXG04 joined the game
-[14:57:43] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player EmpaXG04. Claiming: GRAVE / Robbing: INVENTORY
-[14:57:59] [Server thread/INFO]: violetfoxx lost connection: Timed out
-[14:57:59] [Server thread/INFO]: violetfoxx left the game
-[14:57:59] [Server thread/WARN]: handleDisconnection() called twice
-[14:58:15] [Server thread/INFO]: [Not Secure] <EmpaXG04> el madafacking jairo
-[14:58:19] [Server thread/INFO]: [Not Secure] <pitulinaso> se fue
-[14:58:26] [Server thread/INFO]: violetfoxx[/172.25.212.71:49955] logged in with entity id 1034 at (433.27002443094625, 68.16610926093821, -993.0869864152162)
-[14:58:26] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
-[14:58:26] [Server thread/INFO]: violetfoxx joined the game
-[14:58:27] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
-[14:58:35] [Server thread/INFO]: [Not Secure] <EmpaXG04> ahora volvio
-[14:58:56] [Server thread/INFO]: violetfoxx lost connection: Timed out
-[14:58:56] [Server thread/INFO]: violetfoxx left the game
-[14:59:00] [Server thread/INFO]: violetfoxx[/172.25.212.71:49965] logged in with entity id 1398 at (433.27002443094625, 68.0, -993.0869864152162)
-[14:59:00] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
-[14:59:00] [Server thread/INFO]: violetfoxx joined the game
-[14:59:01] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
-[14:59:06] [Server thread/INFO]: [Not Secure] <pitulinaso> ahora se fue de nuevo
-[14:59:14] [Server thread/INFO]: [Not Secure] <pitulinaso> HAY QUE SACARNOS UNA FOTO LOS 3
-[15:00:08] [Server thread/INFO]: pitulinaso has made the advancement [We Need to Go Deeper]
-[15:00:08] [Server thread/INFO]: [pitulinaso: Teleported pitulinaso to EmpaXG04]
-[15:00:22] [Server thread/INFO]: Locating element minecraft:fortress took 16 ms
-[15:00:28] [Server thread/INFO]: [Not Secure] <EmpaXG04> tenkiu
-[15:00:34] [Server thread/INFO]: [Not Secure] <pitulinaso> yur welcom
-[15:00:44] [Server thread/INFO]: [Not Secure] <pitulinaso> donde queda mi casa
-[15:01:38] [Server thread/INFO]: Locating element minecraft:fortress took 1 ms
-[15:01:59] [Server thread/INFO]: pitulinaso was slain by Enderman
-[15:02:03] [Server thread/INFO]: [Not Secure] <EmpaXG04> pajero
-[15:02:12] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1137, 37, -886, minecraft:the_nether
-[15:03:25] [Server thread/WARN]: violetfoxx moved too quickly! 5.617266600006133,0.7967356006687112,8.366745065746727
-[15:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
-[15:07:43] [Server thread/INFO]: violetfoxx was blown up by Creeper
-[15:07:58] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 502, 67, -935, minecraft:overworld
-[15:10:26] [Worker-Main-10/WARN]: Empty height range: [0 absolute--16 absolute]
-[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=99, z=1251}
-[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=100, z=1251}
-[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=101, z=1251}
-[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=101, z=1251}
-[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=100, z=1251}
-[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=99, z=1251}
-[15:11:09] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
-[15:11:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/9781, l='ServerLevel[world]', x=-740.70, y=-400.00, z=-587.60] died: Illusioner was killed
-[15:11:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/9782, l='ServerLevel[world]', x=-740.70, y=-400.00, z=-587.60] died: Illusioner was killed
-[15:11:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/9779, l='ServerLevel[world]', x=-734.70, y=-400.00, z=-576.95] died: Illusioner was killed
-[15:11:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/9780, l='ServerLevel[world]', x=-734.70, y=-400.00, z=-576.95] died: Illusioner was killed
-[15:11:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/9778, l='ServerLevel[world]', x=-730.33, y=-400.00, z=-574.88] died: Illusioner was killed
-[15:11:24] [Server thread/INFO]: Named entity class_1613['Illusioner'/9847, l='ServerLevel[world]', x=-729.37, y=-400.00, z=-570.07] died: Illusioner was killed
-[15:11:24] [Server thread/INFO]: Named entity class_1613['Illusioner'/9848, l='ServerLevel[world]', x=-729.74, y=-400.00, z=-575.22] died: Illusioner was killed
-[15:11:24] [Server thread/INFO]: Named entity class_1581['Illusioner'/9849, l='ServerLevel[world]', x=-729.74, y=-400.00, z=-575.22] died: Illusioner was killed
-[15:11:24] [Server thread/INFO]: Named entity class_1613['Illusioner'/9850, l='ServerLevel[world]', x=-732.70, y=-400.00, z=-573.69] died: Illusioner was killed
-[15:11:24] [Server thread/INFO]: Named entity class_1581['Illusioner'/9851, l='ServerLevel[world]', x=-732.70, y=-400.00, z=-573.69] died: Illusioner was killed
-[15:11:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/9902, l='ServerLevel[world]', x=-730.65, y=-400.00, z=-569.79] died: Illusioner was killed
-[15:11:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/9903, l='ServerLevel[world]', x=-721.76, y=-400.00, z=-562.89] died: Illusioner was killed
-[15:11:31] [Server thread/INFO]: Named entity class_1581['Illusioner'/9904, l='ServerLevel[world]', x=-721.76, y=-400.00, z=-562.89] died: Illusioner was killed
-[15:11:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/9905, l='ServerLevel[world]', x=-724.46, y=-400.00, z=-564.30] died: Illusioner was killed
-[15:11:31] [Server thread/INFO]: Named entity class_1581['Illusioner'/9906, l='ServerLevel[world]', x=-724.46, y=-400.00, z=-564.30] died: Illusioner was killed
-[15:11:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/9927, l='ServerLevel[world]', x=-726.38, y=-400.00, z=-567.44] died: Illusioner was killed whilst fighting Illusioner
-[15:11:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/9926, l='ServerLevel[world]', x=-726.00, y=-400.00, z=-567.46] died: Illusioner was killed
-[15:11:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/9928, l='ServerLevel[world]', x=-722.98, y=-400.00, z=-566.83] died: Illusioner was killed
-[15:11:36] [Server thread/INFO]: Named entity class_1581['Illusioner'/9929, l='ServerLevel[world]', x=-722.98, y=-400.00, z=-566.83] died: Illusioner was killed
-[15:11:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/9925, l='ServerLevel[world]', x=-720.93, y=-400.00, z=-570.33] died: Illusioner was killed
-[15:11:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/10021, l='ServerLevel[world]', x=-720.24, y=-400.00, z=-583.38] died: Illusioner was killed
-[15:11:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/10024, l='ServerLevel[world]', x=-717.44, y=-400.00, z=-577.72] died: Illusioner was killed
-[15:11:42] [Server thread/INFO]: Named entity class_1581['Illusioner'/10025, l='ServerLevel[world]', x=-717.44, y=-400.00, z=-577.72] died: Illusioner was killed
-[15:11:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/10022, l='ServerLevel[world]', x=-716.75, y=-400.00, z=-577.78] died: Illusioner was killed
-[15:11:42] [Server thread/INFO]: Named entity class_1581['Illusioner'/10023, l='ServerLevel[world]', x=-716.75, y=-400.00, z=-577.78] died: Illusioner was killed
-[15:11:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/10056, l='ServerLevel[world]', x=-738.36, y=-400.00, z=-590.70] died: Illusioner was killed
-[15:11:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/10057, l='ServerLevel[world]', x=-738.36, y=-400.00, z=-590.70] died: Illusioner was killed
-[15:11:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/10055, l='ServerLevel[world]', x=-722.30, y=-400.00, z=-585.39] died: Illusioner was killed
-[15:11:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/10058, l='ServerLevel[world]', x=-713.12, y=-400.00, z=-594.49] died: Illusioner was killed
-[15:11:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/10059, l='ServerLevel[world]', x=-713.12, y=-400.00, z=-594.49] died: Illusioner was killed
-[15:11:46] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=99, z=1251}
-[15:11:46] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=101, z=1251}
-[15:11:46] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=100, z=1251}
-[15:11:46] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
-[15:11:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/10158, l='ServerLevel[world]', x=-726.30, y=-400.00, z=-589.39] died: Illusioner was killed
-[15:11:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/10157, l='ServerLevel[world]', x=-720.30, y=-400.00, z=-583.39] died: Illusioner was killed
-[15:11:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/10159, l='ServerLevel[world]', x=-726.30, y=-400.00, z=-589.39] died: Illusioner was killed
-[15:11:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/10160, l='ServerLevel[world]', x=-723.71, y=-400.00, z=-580.53] died: Illusioner was killed
-[15:11:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/10161, l='ServerLevel[world]', x=-723.71, y=-400.00, z=-580.53] died: Illusioner was killed
-[15:11:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/10169, l='ServerLevel[world]', x=-726.95, y=-400.00, z=-585.83] died: Illusioner was killed
-[15:11:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/10170, l='ServerLevel[world]', x=-726.30, y=-400.00, z=-583.39] died: Illusioner was killed
-[15:11:53] [Server thread/INFO]: Named entity class_1581['Illusioner'/10171, l='ServerLevel[world]', x=-726.30, y=-400.00, z=-583.39] died: Illusioner was killed
-[15:11:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/10172, l='ServerLevel[world]', x=-726.69, y=-400.00, z=-586.66] died: Illusioner was killed
-[15:11:53] [Server thread/INFO]: Named entity class_1581['Illusioner'/10173, l='ServerLevel[world]', x=-726.69, y=-400.00, z=-586.66] died: Illusioner was killed
-[15:11:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/10259, l='ServerLevel[world]', x=-722.95, y=-400.00, z=-593.83] died: Illusioner was killed
-[15:11:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/10260, l='ServerLevel[world]', x=-724.95, y=-400.00, z=-583.83] died: Illusioner was killed
-[15:11:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/10261, l='ServerLevel[world]', x=-724.95, y=-400.00, z=-583.83] died: Illusioner was killed
-[15:11:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/10262, l='ServerLevel[world]', x=-734.78, y=-400.00, z=-584.52] died: Illusioner was killed
-[15:11:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/10263, l='ServerLevel[world]', x=-734.78, y=-400.00, z=-584.52] died: Illusioner was killed
-[15:12:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/10297, l='ServerLevel[world]', x=-726.95, y=-400.00, z=-593.83] died: Illusioner was killed whilst fighting pitulinaso
-[15:12:05] [Server thread/INFO]: Named entity class_1581['Illusioner'/10298, l='ServerLevel[world]', x=-726.95, y=-400.00, z=-593.83] died: Illusioner was killed
-[15:12:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/10295, l='ServerLevel[world]', x=-716.95, y=-400.00, z=-599.83] died: Illusioner was killed
-[15:12:07] [Server thread/INFO]: Named entity class_1581['Illusioner'/10296, l='ServerLevel[world]', x=-716.95, y=-400.00, z=-599.83] died: Illusioner was killed
-[15:12:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/10294, l='ServerLevel[world]', x=-719.18, y=-400.00, z=-590.01] died: Illusioner was killed
-[15:12:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/10394, l='ServerLevel[world]', x=-723.18, y=-400.00, z=-595.48] died: Illusioner was killed
-[15:12:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/10395, l='ServerLevel[world]', x=-735.48, y=-400.00, z=-595.04] died: Illusioner was killed
-[15:12:13] [Server thread/INFO]: Named entity class_1581['Illusioner'/10396, l='ServerLevel[world]', x=-735.48, y=-400.00, z=-595.04] died: Illusioner was killed
-[15:12:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/10397, l='ServerLevel[world]', x=-717.18, y=-400.00, z=-600.01] died: Illusioner was killed
-[15:12:13] [Server thread/INFO]: Named entity class_1581['Illusioner'/10398, l='ServerLevel[world]', x=-717.18, y=-400.00, z=-600.01] died: Illusioner was killed
-[15:12:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/10451, l='ServerLevel[world]', x=-727.18, y=-400.00, z=-595.48] died: Illusioner was killed
-[15:12:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/10448, l='ServerLevel[world]', x=-721.18, y=-400.00, z=-597.48] died: Illusioner was killed
-[15:12:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/10449, l='ServerLevel[world]', x=-725.18, y=-400.00, z=-597.48] died: Illusioner was killed
-[15:12:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/10450, l='ServerLevel[world]', x=-725.18, y=-400.00, z=-597.48] died: Illusioner was killed
-[15:12:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/10452, l='ServerLevel[world]', x=-727.18, y=-400.00, z=-595.48] died: Illusioner was killed
-[15:12:27] [Server thread/INFO]: Named entity class_1613['Illusioner'/10571, l='ServerLevel[world]', x=-726.16, y=-400.00, z=-599.62] died: Illusioner was killed
-[15:12:27] [Server thread/INFO]: Named entity class_1613['Illusioner'/10572, l='ServerLevel[world]', x=-724.35, y=-400.00, z=-595.68] died: Illusioner was killed
-[15:12:27] [Server thread/INFO]: Named entity class_1581['Illusioner'/10573, l='ServerLevel[world]', x=-724.35, y=-400.00, z=-595.68] died: Illusioner was killed
-[15:12:27] [Server thread/INFO]: Named entity class_1613['Illusioner'/10574, l='ServerLevel[world]', x=-717.18, y=-400.00, z=-599.48] died: Illusioner was killed
-[15:12:27] [Server thread/INFO]: Named entity class_1581['Illusioner'/10575, l='ServerLevel[world]', x=-717.18, y=-400.00, z=-599.48] died: Illusioner was killed
-[15:12:30] [Server thread/INFO]: Named entity class_1613['Illusioner'/10614, l='ServerLevel[world]', x=-732.16, y=-400.00, z=-603.62] died: Illusioner was killed
-[15:12:30] [Server thread/INFO]: Named entity class_1613['Illusioner'/10615, l='ServerLevel[world]', x=-724.16, y=-400.00, z=-601.62] died: Illusioner was killed
-[15:12:30] [Server thread/INFO]: Named entity class_1581['Illusioner'/10616, l='ServerLevel[world]', x=-724.16, y=-400.00, z=-601.62] died: Illusioner was killed
-[15:12:30] [Server thread/INFO]: Named entity class_1613['Illusioner'/10617, l='ServerLevel[world]', x=-726.16, y=-400.00, z=-597.62] died: Illusioner was killed
-[15:12:30] [Server thread/INFO]: Named entity class_1581['Illusioner'/10618, l='ServerLevel[world]', x=-726.16, y=-400.00, z=-597.62] died: Illusioner was killed
-[15:12:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/10661, l='ServerLevel[world]', x=-738.16, y=-400.00, z=-601.62] died: Illusioner was killed
-[15:12:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/10662, l='ServerLevel[world]', x=-738.16, y=-400.00, z=-601.62] died: Illusioner was killed
-[15:12:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/10659, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-609.62] died: Illusioner was killed
-[15:12:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/10660, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-609.62] died: Illusioner was killed
-[15:12:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/10658, l='ServerLevel[world]', x=-734.16, y=-400.00, z=-601.62] died: Illusioner was killed
-[15:12:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/10682, l='ServerLevel[world]', x=-736.16, y=-400.00, z=-607.62] died: Illusioner was killed
-[15:12:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/10683, l='ServerLevel[world]', x=-740.16, y=-400.00, z=-605.62] died: Illusioner was killed
-[15:12:33] [Server thread/INFO]: Named entity class_1581['Illusioner'/10684, l='ServerLevel[world]', x=-740.16, y=-400.00, z=-605.62] died: Illusioner was killed
-[15:12:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/10685, l='ServerLevel[world]', x=-734.16, y=-400.00, z=-605.62] died: Illusioner was killed
-[15:12:33] [Server thread/INFO]: Named entity class_1581['Illusioner'/10686, l='ServerLevel[world]', x=-734.16, y=-400.00, z=-605.62] died: Illusioner was killed
-[15:12:38] [Server thread/INFO]: Named entity class_1613['Illusioner'/10754, l='ServerLevel[world]', x=-736.16, y=-400.00, z=-607.62] died: Illusioner was killed
-[15:12:38] [Server thread/INFO]: Named entity class_1613['Illusioner'/10755, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-609.62] died: Illusioner was killed
-[15:12:38] [Server thread/INFO]: Named entity class_1613['Illusioner'/10757, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-611.62] died: Illusioner was killed
-[15:12:38] [Server thread/INFO]: Named entity class_1581['Illusioner'/10756, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-609.62] died: Illusioner was killed
-[15:12:38] [Server thread/INFO]: Named entity class_1581['Illusioner'/10758, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-611.62] died: Illusioner was killed
-[15:12:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/11074, l='ServerLevel[world]', x=-742.16, y=-400.00, z=-607.62] died: Illusioner was killed
-[15:12:43] [Server thread/INFO]: Named entity class_1581['Illusioner'/11075, l='ServerLevel[world]', x=-742.16, y=-400.00, z=-607.62] died: Illusioner was killed
-[15:12:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/11076, l='ServerLevel[world]', x=-742.16, y=-400.00, z=-605.62] died: Illusioner was killed
-[15:12:43] [Server thread/INFO]: Named entity class_1581['Illusioner'/11077, l='ServerLevel[world]', x=-742.16, y=-400.00, z=-605.62] died: Illusioner was killed
-[15:12:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/11073, l='ServerLevel[world]', x=-732.72, y=-400.00, z=-609.49] died: Illusioner was killed
-[15:12:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/11082, l='ServerLevel[world]', x=-730.47, y=-400.00, z=-609.55] died: Illusioner was killed
-[15:12:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/11085, l='ServerLevel[world]', x=-722.51, y=-400.00, z=-608.75] died: Illusioner was killed
-[15:12:46] [Server thread/INFO]: Named entity class_1581['Illusioner'/11086, l='ServerLevel[world]', x=-722.51, y=-400.00, z=-608.75] died: Illusioner was killed
-[15:12:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/11083, l='ServerLevel[world]', x=-727.42, y=-400.00, z=-604.83] died: Illusioner was killed
-[15:12:46] [Server thread/INFO]: Named entity class_1581['Illusioner'/11084, l='ServerLevel[world]', x=-727.42, y=-400.00, z=-604.83] died: Illusioner was killed
-[15:12:47] [Server thread/INFO]: Named entity class_1613['Illusioner'/11126, l='ServerLevel[world]', x=-728.47, y=-400.00, z=-609.55] died: Illusioner was killed whilst fighting pitulinaso
-[15:12:47] [Server thread/INFO]: Named entity class_1581['Illusioner'/11127, l='ServerLevel[world]', x=-728.47, y=-400.00, z=-609.55] died: Illusioner was killed
-[15:12:52] [Server thread/INFO]: Named entity class_1613['Illusioner'/11123, l='ServerLevel[world]', x=-732.74, y=-400.00, z=-604.94] died: Illusioner was killed whilst fighting pitulinaso
-[15:12:52] [Server thread/INFO]: Named entity class_1613['Illusioner'/11124, l='ServerLevel[world]', x=-735.47, y=-400.00, z=-606.70] died: Illusioner was killed
-[15:12:52] [Server thread/INFO]: Named entity class_1581['Illusioner'/11125, l='ServerLevel[world]', x=-735.47, y=-400.00, z=-606.70] died: Illusioner was killed
-[15:12:57] [Server thread/INFO]: Named entity class_1613['Illusioner'/11189, l='ServerLevel[world]', x=-733.28, y=-400.00, z=-610.78] died: Illusioner was killed whilst fighting Illusioner
-[15:12:57] [Server thread/INFO]: Named entity class_1581['Illusioner'/11190, l='ServerLevel[world]', x=-733.28, y=-400.00, z=-610.78] died: Illusioner was killed
-[15:13:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11191, l='ServerLevel[world]', x=-736.38, y=-400.00, z=-608.12] died: Illusioner was killed
-[15:13:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/11192, l='ServerLevel[world]', x=-736.38, y=-400.00, z=-608.12] died: Illusioner was killed
-[15:13:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11188, l='ServerLevel[world]', x=-730.97, y=-400.00, z=-597.46] died: Illusioner was killed
-[15:13:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/11228, l='ServerLevel[world]', x=-729.18, y=-400.00, z=-593.11] died: Illusioner was killed
-[15:13:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/11231, l='ServerLevel[world]', x=-728.71, y=-400.00, z=-593.61] died: Illusioner was killed
-[15:13:10] [Server thread/INFO]: Named entity class_1581['Illusioner'/11232, l='ServerLevel[world]', x=-728.71, y=-400.00, z=-593.61] died: Illusioner was killed
-[15:13:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/11229, l='ServerLevel[world]', x=-723.41, y=-400.00, z=-596.11] died: Illusioner was killed
-[15:13:10] [Server thread/INFO]: Named entity class_1581['Illusioner'/11230, l='ServerLevel[world]', x=-723.41, y=-400.00, z=-596.11] died: Illusioner was killed
-[15:13:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/11313, l='ServerLevel[world]', x=-729.34, y=-400.00, z=-603.20] died: Illusioner was killed
-[15:13:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/11315, l='ServerLevel[world]', x=-723.23, y=-400.00, z=-599.35] died: Illusioner was killed
-[15:13:17] [Server thread/INFO]: Named entity class_1581['Illusioner'/11316, l='ServerLevel[world]', x=-723.23, y=-400.00, z=-599.35] died: Illusioner was killed
-[15:13:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/11312, l='ServerLevel[world]', x=-727.37, y=-400.00, z=-593.46] died: Illusioner was killed
-[15:13:17] [Server thread/INFO]: Named entity class_1581['Illusioner'/11314, l='ServerLevel[world]', x=-729.34, y=-400.00, z=-603.20] died: Illusioner was killed
-[15:13:21] [Server thread/INFO]: Named entity class_1613['Illusioner'/11333, l='ServerLevel[world]', x=-724.74, y=-400.00, z=-600.87] died: Illusioner was killed
-[15:13:21] [Server thread/INFO]: Named entity class_1581['Illusioner'/11334, l='ServerLevel[world]', x=-724.74, y=-400.00, z=-600.87] died: Illusioner was killed
-[15:13:21] [Server thread/INFO]: Named entity class_1613['Illusioner'/11332, l='ServerLevel[world]', x=-723.74, y=-400.00, z=-592.89] died: Illusioner was killed
-[15:13:21] [Server thread/INFO]: Named entity class_1613['Illusioner'/11335, l='ServerLevel[world]', x=-725.94, y=-400.00, z=-602.93] died: Illusioner was killed
-[15:13:21] [Server thread/INFO]: Named entity class_1581['Illusioner'/11336, l='ServerLevel[world]', x=-725.94, y=-400.00, z=-602.93] died: Illusioner was killed
-[15:13:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/11381, l='ServerLevel[world]', x=-721.60, y=-400.00, z=-596.01] died: Illusioner was killed whilst fighting Illusioner
-[15:13:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/11382, l='ServerLevel[world]', x=-721.60, y=-400.00, z=-596.01] died: Illusioner was killed
-[15:13:25] [Server thread/INFO]: Named entity class_1613['Illusioner'/11378, l='ServerLevel[world]', x=-725.96, y=-400.00, z=-596.32] died: Illusioner was killed
-[15:13:25] [Server thread/INFO]: Named entity class_1613['Illusioner'/11379, l='ServerLevel[world]', x=-732.69, y=-400.00, z=-598.24] died: Illusioner was killed
-[15:13:25] [Server thread/INFO]: Named entity class_1581['Illusioner'/11380, l='ServerLevel[world]', x=-732.69, y=-400.00, z=-598.24] died: Illusioner was killed
-[15:13:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/11465, l='ServerLevel[world]', x=-747.88, y=-400.00, z=-583.69] died: Illusioner was killed
-[15:13:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/11466, l='ServerLevel[world]', x=-747.88, y=-400.00, z=-583.69] died: Illusioner was killed
-[15:13:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/11462, l='ServerLevel[world]', x=-721.63, y=-400.00, z=-600.12] died: Illusioner was killed
-[15:13:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/11463, l='ServerLevel[world]', x=-722.59, y=-400.00, z=-586.89] died: Illusioner was killed
-[15:13:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/11464, l='ServerLevel[world]', x=-722.59, y=-400.00, z=-586.89] died: Illusioner was killed
-[15:13:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/11567, l='ServerLevel[world]', x=-723.63, y=-400.00, z=-598.12] died: Illusioner was killed
-[15:13:40] [Server thread/INFO]: Named entity class_1581['Illusioner'/11568, l='ServerLevel[world]', x=-723.63, y=-400.00, z=-598.12] died: Illusioner was killed
-[15:13:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/11566, l='ServerLevel[world]', x=-715.63, y=-400.00, z=-592.12] died: Illusioner was killed
-[15:13:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/11569, l='ServerLevel[world]', x=-717.63, y=-400.00, z=-602.12] died: Illusioner was killed
-[15:13:40] [Server thread/INFO]: Named entity class_1581['Illusioner'/11570, l='ServerLevel[world]', x=-717.63, y=-400.00, z=-602.12] died: Illusioner was killed
-[15:13:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/11591, l='ServerLevel[world]', x=-720.85, y=-400.00, z=-593.34] died: Illusioner was killed
-[15:13:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/11592, l='ServerLevel[world]', x=-720.85, y=-400.00, z=-593.34] died: Illusioner was killed
-[15:13:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/11590, l='ServerLevel[world]', x=-714.57, y=-400.00, z=-600.46] died: Illusioner was killed
-[15:13:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/11593, l='ServerLevel[world]', x=-715.42, y=-400.00, z=-593.68] died: Illusioner was killed
-[15:13:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/11594, l='ServerLevel[world]', x=-715.42, y=-400.00, z=-593.68] died: Illusioner was killed
-[15:13:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/11660, l='ServerLevel[world]', x=-722.56, y=-400.00, z=-596.46] died: Illusioner was killed
-[15:13:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/11663, l='ServerLevel[world]', x=-713.10, y=-400.00, z=-599.00] died: Illusioner was killed
-[15:13:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/11664, l='ServerLevel[world]', x=-713.10, y=-400.00, z=-599.00] died: Illusioner was killed
-[15:13:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/11661, l='ServerLevel[world]', x=-718.33, y=-400.00, z=-592.57] died: Illusioner was killed
-[15:13:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/11662, l='ServerLevel[world]', x=-718.33, y=-400.00, z=-592.57] died: Illusioner was killed
-[15:13:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/11720, l='ServerLevel[world]', x=-721.31, y=-400.00, z=-603.56] died: Illusioner was killed
-[15:13:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/11721, l='ServerLevel[world]', x=-721.31, y=-400.00, z=-603.56] died: Illusioner was killed
-[15:13:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/11718, l='ServerLevel[world]', x=-721.43, y=-400.00, z=-607.39] died: Illusioner was killed
-[15:13:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/11719, l='ServerLevel[world]', x=-721.43, y=-400.00, z=-607.39] died: Illusioner was killed
-[15:13:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/11717, l='ServerLevel[world]', x=-719.80, y=-400.00, z=-585.17] died: Illusioner was killed
-[15:14:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11750, l='ServerLevel[world]', x=-723.77, y=-400.00, z=-585.18] died: Illusioner was killed
-[15:14:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11751, l='ServerLevel[world]', x=-719.36, y=-400.00, z=-582.30] died: Illusioner was killed
-[15:14:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11753, l='ServerLevel[world]', x=-718.72, y=-400.00, z=-586.00] died: Illusioner was killed
-[15:14:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/11752, l='ServerLevel[world]', x=-719.36, y=-400.00, z=-582.30] died: Illusioner was killed
-[15:14:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/11754, l='ServerLevel[world]', x=-718.72, y=-400.00, z=-586.00] died: Illusioner was killed
-[15:14:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/11786, l='ServerLevel[world]', x=-726.77, y=-400.00, z=-597.25] died: Illusioner was killed
-[15:14:05] [Server thread/INFO]: Named entity class_1581['Illusioner'/11787, l='ServerLevel[world]', x=-726.77, y=-400.00, z=-597.25] died: Illusioner was killed
-[15:14:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/11785, l='ServerLevel[world]', x=-722.53, y=-400.00, z=-583.31] died: Illusioner was killed
-[15:14:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/11788, l='ServerLevel[world]', x=-719.82, y=-400.00, z=-590.66] died: Illusioner was killed
-[15:14:05] [Server thread/INFO]: Named entity class_1581['Illusioner'/11789, l='ServerLevel[world]', x=-719.82, y=-400.00, z=-590.66] died: Illusioner was killed
-[15:14:07] [Server thread/INFO]: pitulinaso drowned
-[15:14:12] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
-[15:14:23] [Server thread/INFO]: Named entity class_1613['Illusioner'/12403, l='ServerLevel[world]', x=-720.53, y=-400.00, z=-587.31] died: Illusioner was killed
-[15:14:23] [Server thread/INFO]: Named entity class_1581['Illusioner'/12405, l='ServerLevel[world]', x=-722.53, y=-400.00, z=-579.31] died: Illusioner was killed
-[15:14:23] [Server thread/INFO]: Named entity class_1581['Illusioner'/12407, l='ServerLevel[world]', x=-720.53, y=-400.00, z=-585.31] died: Illusioner was killed
-[15:14:23] [Server thread/INFO]: Named entity class_1613['Illusioner'/12406, l='ServerLevel[world]', x=-726.53, y=-400.00, z=-583.31] died: Illusioner was killed
-[15:14:23] [Server thread/INFO]: Named entity class_1613['Illusioner'/12404, l='ServerLevel[world]', x=-718.53, y=-400.00, z=-587.31] died: Illusioner was killed
-[15:14:26] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at -724, 60, -586, minecraft:overworld
-[15:14:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/12598, l='ServerLevel[world]', x=-722.41, y=-400.00, z=-584.93] died: Illusioner was killed
-[15:14:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/12599, l='ServerLevel[world]', x=-711.89, y=-400.00, z=-601.99] died: Illusioner was killed
-[15:14:31] [Server thread/INFO]: Named entity class_1581['Illusioner'/12600, l='ServerLevel[world]', x=-711.89, y=-400.00, z=-601.99] died: Illusioner was killed
-[15:14:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/12601, l='ServerLevel[world]', x=-709.30, y=-400.00, z=-560.30] died: Illusioner was killed
-[15:14:31] [Server thread/INFO]: Named entity class_1581['Illusioner'/12602, l='ServerLevel[world]', x=-709.30, y=-400.00, z=-560.30] died: Illusioner was killed
-[15:14:34] [Server thread/INFO]: Named entity class_1581['Illusioner'/12775, l='ServerLevel[world]', x=-722.48, y=-400.00, z=-583.77] died: Illusioner was killed whilst fighting Illusioner
-[15:14:34] [Server thread/INFO]: Named entity class_1613['Illusioner'/12774, l='ServerLevel[world]', x=-722.61, y=-400.00, z=-583.39] died: Illusioner was killed
-[15:14:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/12771, l='ServerLevel[world]', x=-728.41, y=-400.00, z=-582.33] died: Illusioner was killed
-[15:14:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/12772, l='ServerLevel[world]', x=-726.99, y=-400.00, z=-583.30] died: Illusioner was killed
-[15:14:36] [Server thread/INFO]: Named entity class_1581['Illusioner'/12773, l='ServerLevel[world]', x=-726.99, y=-400.00, z=-583.30] died: Illusioner was killed
-[15:14:36] [Server thread/INFO]: pitulinaso has made the advancement [Shows Over!]
-[15:16:31] [Server thread/INFO]: EmpaXG04 fell from a high place
-[15:16:37] [Server thread/INFO]: [Not Secure] <EmpaXG04> dios
-[15:16:41] [Server thread/INFO]: [Not Secure] <EmpaXG04> me cague todo
-[15:16:46] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at 703, 37, -1204, minecraft:the_nether
-[15:16:56] [Server thread/INFO]: EmpaXG04 has completed the challenge [Hot Tourist Destinations]
-[15:17:39] [Server thread/INFO]: EmpaXG04 has made the advancement [A Terrible Fortress]
-[15:21:29] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-517, y=91, z=443}
-[15:21:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-517, y=91, z=443} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
-[15:21:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=-517, y=91, z=443}
-[15:22:35] [Server thread/INFO]: [pitulinaso: Set the weather to clear]
-[15:23:01] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
-[15:23:01] [Server thread/INFO]: EmpaXG04 has made the advancement [The Kings Residence]
-[15:23:35] [Server thread/INFO]: [Not Secure] <EmpaXG04> LO LOGRE LPM
-[15:23:38] [Server thread/INFO]: [Not Secure] <EmpaXG04> LO TENGO
-[15:23:55] [Server thread/INFO]: [Not Secure] <EmpaXG04> amigo, una nether fort con un solo cofre y justo lo tenia
-[15:24:04] [Server thread/INFO]: [Not Secure] <violetfoxx> encontraste la piedra filosofal chico?
-[15:24:14] [Server thread/INFO]: [Not Secure] <EmpaXG04> encontre la piedra muchachos
-[15:24:20] [Server thread/INFO]: [Not Secure] <EmpaXG04> che, alguien tiene arena de almas?
-[15:24:34] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[15:24:43] [Server thread/INFO]: [Not Secure] <violetfoxx> te sirve arena comun?
-[15:24:51] [Server thread/INFO]: [Not Secure] <violetfoxx> deaa
-[15:24:56] [Server thread/INFO]: [Not Secure] <EmpaXG04> nop, es para las verrugas, pero es lo de menos
-[15:25:07] [Server thread/INFO]: [Not Secure] <violetfoxx> naonao io no tengo mano
-[15:26:53] [Server thread/INFO]: pitulinaso fell from a high place
-[15:27:05] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at -487, 160, 734, minecraft:overworld
-[15:28:33] [Server thread/INFO]: pitulinaso was slain by Zombie
-[15:31:14] [Server thread/INFO]: EmpaXG04 lost connection: Disconnected
-[15:31:14] [Server thread/INFO]: EmpaXG04 left the game
-[15:41:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:41:13] [Server thread/INFO]: jk<--[HERE]
-[15:46:03] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at -539, 96, 805, minecraft:overworld
-[15:49:51] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[15:49:51] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[15:50:30] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[15:51:20] [Server thread/INFO]: [pitulinaso: Set the weather to clear]
-[16:03:05] [Server thread/INFO]: pitulinaso was blown up by Creeper
-[16:03:13] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1381, 70, 151, minecraft:overworld
-[16:05:36] [Server thread/INFO]: violetfoxx was slain by Zombie
-[16:06:16] [Server thread/INFO]: pitulinaso was slain by Enderman
-[16:06:22] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1309, 67, 202, minecraft:overworld
-[16:07:18] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 437, 58, -990, minecraft:overworld
-[16:08:23] [Server thread/INFO]: [pitulinaso: Teleported pitulinaso to violetfoxx]
-[16:08:50] [Server thread/INFO]: violetfoxx has made the advancement [Corrupted]
-[16:10:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:10:41] [Server thread/INFO]: nhjb<--[HERE]
-[16:12:40] [Server thread/INFO]: EmpaXG04[/172.25.58.124:64529] logged in with entity id 36718 at (-1155.1493149404748, 75.0, -1725.6404771571843)
-[16:12:40] [Server thread/INFO]: Syncing config to EmpaXG04 (6108b51e-516d-3e08-b844-60027275940a)
-[16:12:40] [Server thread/INFO]: EmpaXG04 joined the game
-[16:12:41] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player EmpaXG04. Claiming: GRAVE / Robbing: INVENTORY
-[16:12:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1232, y=46, z=99} class_2338{x=1232, y=47, z=99}
-[16:12:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1232, y=46, z=100} class_2338{x=1232, y=47, z=100}
-[16:12:56] [Server thread/INFO]: [Not Secure] <EmpaXG04> volvio el mas kpito
-[16:15:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1247, y=53, z=186} class_2338{x=1247, y=54, z=186}
-[16:15:48] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -9.988960535479606,0.0,2.090455022830156
-[16:15:48] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -10.455299888578622,0.0,2.1135169410315484
-[16:15:48] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -10.922083762838042,1.0,2.127148330639102
-[16:15:48] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -11.389105491507621,1.0,2.1357336324205107
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -10.279300119952978,0.0,0.07835680092853181
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -10.746541032206721,0.0,0.08191847369801053
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -11.213781944460465,0.0,0.08548014646748925
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -11.681022856714208,0.0,0.08904181923696797
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -12.14826376896795,0.0,0.09260349200644669
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -12.615504681221665,0.0,0.0961651647759254
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -13.08274559347538,0.0,0.09972683754540412
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -13.549986505729095,0.0,0.10328851031488284
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -14.01722741798281,0.0,0.10685018308436156
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -14.484468330236524,0.0,0.11041185585384028
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -14.951709242490239,0.0,0.113973528623319
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -15.418950154743953,0.0,0.11753520139279772
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -15.886191066997668,0.0,0.12109687416227644
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -16.353431979251383,0.0,0.12465854693175515
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -16.820672891505097,0.0,0.12822021970123387
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -17.287913803758812,0.0,0.1317818924707126
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -17.75518351599996,0.0,0.1313653041663656
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -18.220556508440296,0.0,0.10260124874753274
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -18.681751603874773,0.0,0.04052348974880715
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -19.14058963169944,0.0,-0.039928867951743996
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -19.59816643964095,0.0,-0.13021310706767508
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -20.056444823583462,0.0,-0.21908777806845592
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -20.51692873986957,0.0,-0.2959848854873144
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -20.97859279253916,0.0,-0.3664730374403007
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -21.44065098470432,0.0,-0.43522332429336075
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -21.902224548179277,0.0,-0.5075308597024559
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -22.36344612891915,0.0,-0.5822965152015058
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -22.824381756369405,1.0,-0.6589524611401885
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -23.284244498619728,1.0,-0.7416393623311706
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -23.743533161390587,1.0,-0.8275533074335044
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -24.201948940889082,1.0,-0.9179909580265075
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -24.657135267791915,1.0,-1.0224587985222797
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -25.095111837561547,1.0,-1.17533183200635
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -25.51268118553034,1.0,-1.3738915508065475
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -25.918407455098162,1.0,-1.5983340659873875
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -26.31779672953914,1.0,-1.8366259494641781
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -26.713795204233776,1.0,-2.082328353789535
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -27.107979329589426,1.0,-2.331995980071042
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -27.50119263278799,1.0,-2.583785317563411
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -27.893886468406407,1.0,-2.8367099404222245
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -28.286302347279758,1.0,-3.090242031845605
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -28.717057788493207,1.0,-3.2459807976150614
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -29.168327965106442,1.0,-3.349392304615776
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -29.630575167612392,1.0,-3.4248045387422508
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -30.098415389357513,1.0,-3.4881118667301507
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -30.56809333568623,1.0,-3.554157543689712
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -21.18386662752306,1.0,-3.7909536666236363
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -21.57586470894978,1.0,-4.0211935940275225
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -21.938546444512497,1.0,-4.298706250769442
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -22.28432370067057,1.0,-4.602711119926084
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 24.282816166809397,-1.0,0.11353813948358038
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 24.282816166809397,-1.0,0.11353813948358038
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 24.282816166809397,-1.0,0.11353813948358038
-[16:15:49] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 24.282816166809397,-1.0,0.11353813948358038
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -5.9496956787036765,-1.0,-8.196479401427041
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -6.353408673415828,-1.0,-8.413562654070347
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -6.766551279581378,-1.0,-8.62106280714147
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -7.184739482829485,-1.0,-8.823435234697854
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -7.605627484478106,-1.0,-9.023063918567232
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -8.027960094422667,-1.0,-9.221224479893863
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -8.451065685464002,-1.0,-9.418599478119177
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -8.876684187397444,-1.0768320014953616,-9.610880011895233
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -9.124692003815639,-1.2274534586630068,-9.721590358834419
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -9.366331062170616,-1.4489423104376016,-9.827613615183054
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -9.602627810279955,-1.7384922093173572,-9.928429977800533
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -9.835056969225505,-2.0,-10.01940405115488
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -10.259334417292322,-2.0,-10.11119511738093
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -10.7034071358176,-2.0,-10.169826690198533
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -11.156172883820489,-2.0,-10.171011281820483
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -11.61103851551863,-2.0,-10.126259073314714
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -12.06438960174954,-2.0,-10.04647812564599
-[16:15:57] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -12.513721210040742,-2.0,-9.937044623678275
-[16:16:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -10.300493621209284,-1.0,-0.4328699750335545
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 17.777614293702186,1.0,0.3596800033826639
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 17.31049995742839,1.0,0.35022928493981453
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 16.843342028127466,1.0,0.3407776845172066
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 16.376160773066886,1.0,0.3313256121646191
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 15.908967036857362,1.0,0.32187328729173714
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 15.4417666222339,1.0,0.31242082730045695
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 14.974562634124283,1.0,0.30296829500980493
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 14.507356733913483,1.0,0.29351572403334103
-[16:16:03] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 14.040149810575457,1.0,0.2840631323567777
-[16:17:27] [pool-4-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-2725, y=71, z=-1093}
-[16:17:28] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-2725, y=71, z=-1093} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
-[16:17:28] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location class_2338{x=-2725, y=71, z=-1093}
-[16:17:48] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[16:17:48] [Worker-Main-15/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -3.708758870588099,0.0,-9.576021891192795
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -3.853538985040359,0.0,-10.020330945981868
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -3.9983070269823315,0.0,-10.464644434253387
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -4.143068609164743,0.0,-10.908960294792905
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -4.287826734858584,0.0,-11.353277424685757
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -4.432583011054305,0.0,-11.79759523378425
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -4.577338297620486,0.0,-12.241913406312051
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -4.722093054655602,0.0,-12.686231773303689
-[16:19:00] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! -4.86684752834924,0.0,-13.130550244349024
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.747014150007999,0.0,13.74392488517583
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 8.332393289964443,-1.0,16.468657847775603
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 8.160565859863027,-1.0,16.043600548733593
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 8.011683136215538,-1.0,15.606496643553783
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.875077667523442,-1.0,15.162946839612914
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.7244925149593655,-1.0,14.722642614074857
-[16:19:01] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.561681356080271,-1.0,14.285951020500079
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.153135919149406,2.0,-8.487587651032754
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.336388567125539,2.0,-8.764530305545122
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.534331279739376,2.0,-8.955410600904315
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.740134353052554,2.0,-9.100240643778989
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.950143348657207,2.0,-9.220430114692135
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.162402849423017,2.0,-9.327434906828785
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.375866550630349,2.0,-9.427384840226068
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.589974595484762,2.0,-9.523559859370835
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.804427415777923,2.0,-9.617714997162693
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.019064718534253,2.0,-9.710789336714697
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.2338007341784305,2.0,-9.803285362677343
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.44858956912077,3.0,-9.895471944568499
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.576752909414836,3.0,-10.166096447982
-[16:19:13] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.658564674648687,3.0,-10.53219952553377
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 4.609434194284347,0.0,-8.92401773509232
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 4.867931406376101,0.0,-9.306620530519467
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.1092689030891165,0.0,-9.702623850766031
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.342925155992475,0.0,-10.104981697684025
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.572471328480788,0.0,-10.51073972512836
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 5.799818278885141,0.0,-10.918317121380142
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.027973123928746,0.0,-11.325765377167272
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.256560257286139,0.0,-11.733144532466667
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.485378699501325,0.0,-12.140486713472683
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.714320910474555,0.0,-12.547809110271373
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 6.945807305552705,0.0,-12.953705707165227
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.206271239387661,0.0,-13.339836018281176
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.502730592689431,0.0,-13.696526724590058
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.874054238328654,0.0,-13.949905470508156
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 8.285436274164681,0.0,-14.148004046239521
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 8.718252755916865,0.0,-14.316523305071769
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 9.10887798948579,1.0,-14.554713702799518
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 9.476927527354576,1.0,-14.830183737857624
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 9.832897260565005,1.0,-15.12560136357547
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 10.182403331148066,1.0,-15.431692547343118
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 10.528450824730783,1.0,-15.743494939215452
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 10.872647702717188,1.0,-16.058353284675604
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 11.215854353195311,1.0,-16.37484680997136
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 11.558531152676721,2.0,-16.69221528739513
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 11.900924439453888,2.0,-17.010051934257945
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 7.924298477240768,2.0,-8.761680187446018
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 8.266458889309433,3.0,-9.079901384348432
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 8.608575867477725,3.0,-9.398194304402978
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 8.950669605031862,3.0,-9.716525602085994
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 9.292750906996787,4.0,-10.034877434872897
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 9.63482555492584,4.0,-10.353240255584524
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 9.976896642412953,4.0,-10.671608955715556
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 10.318965824778616,4.0,-10.989980801806723
-[16:19:15] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved too quickly! 10.65751360367824,4.0,-11.312048719552422
-[16:21:59] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved wrongly! 0.26201519648748217
-[16:21:59] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved wrongly! 0.6884436340119464
-[16:21:59] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved wrongly! 1.1334142682492256
-[16:21:59] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved wrongly! 1.5886435930440257
-[16:22:02] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved wrongly! 0.3746902481586858
-[16:22:02] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved wrongly! 0.7882343102103277
-[16:22:02] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved wrongly! 1.1659692947844178
-[16:22:02] [Server thread/WARN]: Horse (vehicle of violetfoxx) moved wrongly! 1.5139281188673976
-[16:22:09] [Server thread/INFO]: EmpaXG04 was shot by Skeleton
-[16:22:16] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -2583, 41, -1165, minecraft:overworld
-[16:22:47] [Server thread/INFO]: EmpaXG04 was slain by Enderman
-[16:22:53] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -2587, 39, -1172, minecraft:overworld
-[16:23:01] [Server thread/INFO]: violetfoxx was doomed to fall by Spider
-[16:23:20] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at -668, 78, -1776, minecraft:overworld
-[16:23:20] [Server thread/INFO]: violetfoxx was blown up by Creeper
-[16:23:37] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at -670, 78, -1777, minecraft:overworld
-[16:25:37] [Server thread/WARN]: pitulinaso moved too quickly! 3.6301175723517645,0.7531999805212024,9.338288167060284
-[16:28:34] [Server thread/INFO]: EmpaXG04 was slain by Zombie
-[16:28:40] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -2604, 27, -1168, minecraft:overworld
-[16:32:23] [Server thread/INFO]: violetfoxx has made the advancement [Porky Illusions]
-[16:32:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/55002, l='ServerLevel[world]', x=411.15, y=-400.00, z=-992.36] died: Illusioner was killed
-[16:32:28] [Server thread/INFO]: Named entity class_1581['Illusioner'/55003, l='ServerLevel[world]', x=411.15, y=-400.00, z=-992.36] died: Illusioner was killed
-[16:32:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/54999, l='ServerLevel[world]', x=412.14, y=-400.00, z=-990.45] died: Illusioner was killed
-[16:32:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/55000, l='ServerLevel[world]', x=411.72, y=-400.00, z=-989.36] died: Illusioner was killed
-[16:32:28] [Server thread/INFO]: Named entity class_1581['Illusioner'/55001, l='ServerLevel[world]', x=411.72, y=-400.00, z=-989.36] died: Illusioner was killed
-[16:32:34] [Server thread/INFO]: Named entity class_1581['Illusioner'/55045, l='ServerLevel[world]', x=408.76, y=-400.00, z=-992.63] died: Illusioner was killed whilst fighting violetfoxx
-[16:32:34] [Server thread/INFO]: Named entity class_1613['Illusioner'/55044, l='ServerLevel[world]', x=408.87, y=-400.00, z=-992.26] died: Illusioner was killed
-[16:32:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/55042, l='ServerLevel[world]', x=404.18, y=-400.00, z=-994.00] died: Illusioner was killed
-[16:32:46] [Server thread/INFO]: Named entity class_1581['Illusioner'/55043, l='ServerLevel[world]', x=404.18, y=-400.00, z=-994.00] died: Illusioner was killed
-[16:32:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/55041, l='ServerLevel[world]', x=410.63, y=-400.00, z=-989.00] died: Illusioner was killed whilst fighting violetfoxx
-[16:32:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/55167, l='ServerLevel[world]', x=409.64, y=-400.00, z=-995.59] died: Illusioner was killed
-[16:32:51] [Server thread/INFO]: Named entity class_1581['Illusioner'/55168, l='ServerLevel[world]', x=409.64, y=-400.00, z=-995.59] died: Illusioner was killed
-[16:32:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/55166, l='ServerLevel[world]', x=409.20, y=-400.00, z=-985.20] died: Illusioner was killed
-[16:32:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/55169, l='ServerLevel[world]', x=412.20, y=-400.00, z=-983.26] died: Illusioner was killed
-[16:32:51] [Server thread/INFO]: Named entity class_1581['Illusioner'/55170, l='ServerLevel[world]', x=412.20, y=-400.00, z=-983.26] died: Illusioner was killed
-[16:32:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/55191, l='ServerLevel[world]', x=415.98, y=-400.00, z=-991.50] died: Illusioner was killed
-[16:32:53] [Server thread/INFO]: Named entity class_1581['Illusioner'/55192, l='ServerLevel[world]', x=415.98, y=-400.00, z=-991.50] died: Illusioner was killed
-[16:32:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/55188, l='ServerLevel[world]', x=413.83, y=-400.00, z=-985.91] died: Illusioner was killed
-[16:32:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/55189, l='ServerLevel[world]', x=412.75, y=-400.00, z=-985.66] died: Illusioner was killed
-[16:32:53] [Server thread/INFO]: Named entity class_1581['Illusioner'/55190, l='ServerLevel[world]', x=412.75, y=-400.00, z=-985.66] died: Illusioner was killed
-[16:32:57] [Server thread/INFO]: death.attack.mob_attack
-[16:33:00] [Server thread/INFO]: Named entity class_1613['Illusioner'/55240, l='ServerLevel[world]', x=415.53, y=-400.00, z=-990.79] died: Illusioner was killed
-[16:33:00] [Server thread/INFO]: Named entity class_1613['Illusioner'/55265, l='ServerLevel[world]', x=407.83, y=-400.00, z=-973.91] died: Illusioner was killed
-[16:33:00] [Server thread/INFO]: Named entity class_1581['Illusioner'/55266, l='ServerLevel[world]', x=407.83, y=-400.00, z=-973.91] died: Illusioner was killed
-[16:33:00] [Server thread/INFO]: Named entity class_1613['Illusioner'/55243, l='ServerLevel[world]', x=416.01, y=-400.00, z=-989.70] died: Illusioner was killed
-[16:33:00] [Server thread/INFO]: Named entity class_1581['Illusioner'/55244, l='ServerLevel[world]', x=416.01, y=-400.00, z=-989.70] died: Illusioner was killed
-[16:33:03] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 412, 79, -988, minecraft:overworld
-[16:33:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/55446, l='ServerLevel[world]', x=413.88, y=-400.00, z=-993.54] died: Illusioner was killed
-[16:33:05] [Server thread/INFO]: Named entity class_1581['Illusioner'/55447, l='ServerLevel[world]', x=413.88, y=-400.00, z=-993.54] died: Illusioner was killed
-[16:33:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/55448, l='ServerLevel[world]', x=425.29, y=-400.00, z=-1005.63] died: Illusioner was killed
-[16:33:05] [Server thread/INFO]: Named entity class_1581['Illusioner'/55449, l='ServerLevel[world]', x=425.29, y=-400.00, z=-1005.63] died: Illusioner was killed
-[16:33:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/55445, l='ServerLevel[world]', x=420.97, y=-400.00, z=-996.50] died: Illusioner was killed
-[16:33:06] [Server thread/INFO]: Named entity class_1613['Illusioner'/55532, l='ServerLevel[world]', x=413.83, y=-400.00, z=-987.99] died: Illusioner was killed
-[16:33:06] [Server thread/INFO]: Named entity class_1613['Illusioner'/55533, l='ServerLevel[world]', x=418.97, y=-400.00, z=-1002.50] died: Illusioner was killed
-[16:33:06] [Server thread/INFO]: Named entity class_1581['Illusioner'/55534, l='ServerLevel[world]', x=418.97, y=-400.00, z=-1002.50] died: Illusioner was killed
-[16:33:06] [Server thread/INFO]: Named entity class_1613['Illusioner'/55535, l='ServerLevel[world]', x=422.00, y=-400.00, z=-992.00] died: Illusioner was killed
-[16:33:06] [Server thread/INFO]: Named entity class_1581['Illusioner'/55536, l='ServerLevel[world]', x=422.00, y=-400.00, z=-992.00] died: Illusioner was killed
-[16:33:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/55546, l='ServerLevel[world]', x=407.30, y=-400.00, z=-986.40] died: Illusioner was killed whilst fighting violetfoxx
-[16:33:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/55549, l='ServerLevel[world]', x=412.59, y=-400.00, z=-981.46] died: Illusioner was killed
-[16:33:10] [Server thread/INFO]: Named entity class_1581['Illusioner'/55550, l='ServerLevel[world]', x=412.59, y=-400.00, z=-981.46] died: Illusioner was killed
-[16:33:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/55547, l='ServerLevel[world]', x=411.41, y=-400.00, z=-976.78] died: Illusioner was killed
-[16:33:10] [Server thread/INFO]: Named entity class_1581['Illusioner'/55548, l='ServerLevel[world]', x=411.41, y=-400.00, z=-976.78] died: Illusioner was killed
-[16:33:16] [Server thread/INFO]: Named entity class_1613['Illusioner'/55609, l='ServerLevel[world]', x=398.06, y=-400.00, z=-990.48] died: Illusioner was killed
-[16:33:16] [Server thread/INFO]: Named entity class_1613['Illusioner'/55612, l='ServerLevel[world]', x=412.70, y=-400.00, z=-983.11] died: Illusioner was killed
-[16:33:16] [Server thread/INFO]: Named entity class_1581['Illusioner'/55613, l='ServerLevel[world]', x=412.70, y=-400.00, z=-983.11] died: Illusioner was killed
-[16:33:16] [Server thread/INFO]: Named entity class_1613['Illusioner'/55610, l='ServerLevel[world]', x=412.70, y=-400.00, z=-985.16] died: Illusioner was killed
-[16:33:16] [Server thread/INFO]: Named entity class_1581['Illusioner'/55611, l='ServerLevel[world]', x=412.70, y=-400.00, z=-985.16] died: Illusioner was killed
-[16:33:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/55620, l='ServerLevel[world]', x=400.76, y=-400.00, z=-986.34] died: Illusioner was killed
-[16:33:17] [Server thread/INFO]: Named entity class_1581['Illusioner'/55621, l='ServerLevel[world]', x=400.76, y=-400.00, z=-986.34] died: Illusioner was killed
-[16:33:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/55619, l='ServerLevel[world]', x=402.76, y=-400.00, z=-984.43] died: Illusioner was killed
-[16:33:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/55622, l='ServerLevel[world]', x=400.31, y=-400.00, z=-990.50] died: Illusioner was killed
-[16:33:17] [Server thread/INFO]: Named entity class_1581['Illusioner'/55623, l='ServerLevel[world]', x=400.31, y=-400.00, z=-990.50] died: Illusioner was killed
-[16:33:19] [Server thread/INFO]: Named entity class_1613['Illusioner'/55637, l='ServerLevel[world]', x=404.87, y=-400.00, z=-984.39] died: Illusioner was killed
-[16:33:19] [Server thread/INFO]: Named entity class_1581['Illusioner'/55638, l='ServerLevel[world]', x=404.87, y=-400.00, z=-984.39] died: Illusioner was killed
-[16:33:19] [Server thread/INFO]: Named entity class_1613['Illusioner'/55634, l='ServerLevel[world]', x=402.57, y=-400.00, z=-984.56] died: Illusioner was killed
-[16:33:19] [Server thread/INFO]: Named entity class_1613['Illusioner'/55635, l='ServerLevel[world]', x=400.47, y=-400.00, z=-982.76] died: Illusioner was killed
-[16:33:19] [Server thread/INFO]: Named entity class_1581['Illusioner'/55636, l='ServerLevel[world]', x=400.47, y=-400.00, z=-982.76] died: Illusioner was killed
-[16:33:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/55649, l='ServerLevel[world]', x=395.01, y=-400.00, z=-989.59] died: Illusioner was killed
-[16:33:28] [Server thread/INFO]: Named entity class_1581['Illusioner'/55650, l='ServerLevel[world]', x=395.01, y=-400.00, z=-989.59] died: Illusioner was killed
-[16:33:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/55648, l='ServerLevel[world]', x=410.36, y=-400.00, z=-987.55] died: Illusioner was killed whilst fighting violetfoxx
-[16:33:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/55651, l='ServerLevel[world]', x=413.88, y=-400.00, z=-977.41] died: Illusioner was killed
-[16:33:28] [Server thread/INFO]: Named entity class_1581['Illusioner'/55652, l='ServerLevel[world]', x=413.88, y=-400.00, z=-977.41] died: Illusioner was killed
-[16:33:35] [Server thread/INFO]: Named entity class_1613['Illusioner'/55725, l='ServerLevel[world]', x=404.48, y=-400.00, z=-979.82] died: Illusioner was killed
-[16:33:35] [Server thread/INFO]: Named entity class_1581['Illusioner'/55726, l='ServerLevel[world]', x=404.48, y=-400.00, z=-979.82] died: Illusioner was killed
-[16:33:35] [Server thread/INFO]: Named entity class_1613['Illusioner'/55727, l='ServerLevel[world]', x=411.22, y=-400.00, z=-990.45] died: Illusioner was killed
-[16:33:35] [Server thread/INFO]: Named entity class_1581['Illusioner'/55728, l='ServerLevel[world]', x=411.22, y=-400.00, z=-990.45] died: Illusioner was killed
-[16:33:35] [Server thread/INFO]: Named entity class_1613['Illusioner'/55724, l='ServerLevel[world]', x=407.67, y=-400.00, z=-983.05] died: Illusioner was killed
-[16:33:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/55766, l='ServerLevel[world]', x=409.47, y=-400.00, z=-981.11] died: Illusioner was killed
-[16:33:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/55767, l='ServerLevel[world]', x=406.90, y=-400.00, z=-981.45] died: Illusioner was killed whilst fighting Illusioner
-[16:33:37] [Server thread/INFO]: Named entity class_1581['Illusioner'/55768, l='ServerLevel[world]', x=406.90, y=-400.00, z=-981.45] died: Illusioner was killed
-[16:33:37] [Server thread/INFO]: Named entity class_1613['Illusioner'/55769, l='ServerLevel[world]', x=413.44, y=-400.00, z=-982.34] died: Illusioner was killed
-[16:33:37] [Server thread/INFO]: Named entity class_1581['Illusioner'/55770, l='ServerLevel[world]', x=413.44, y=-400.00, z=-982.34] died: Illusioner was killed
-[16:33:38] [Server thread/INFO]: Named entity class_1581['Illusioner'/55793, l='ServerLevel[world]', x=408.98, y=-400.00, z=-981.77] died: Illusioner was killed whilst fighting Illusioner
-[16:33:38] [Server thread/INFO]: Named entity class_1613['Illusioner'/55792, l='ServerLevel[world]', x=408.89, y=-400.00, z=-981.74] died: Illusioner was killed
-[16:33:38] [Server thread/INFO]: violetfoxx was shot by Arrow
-[16:33:39] [Server thread/INFO]: Named entity class_1613['Illusioner'/55789, l='ServerLevel[world]', x=408.26, y=-400.00, z=-983.50] died: Illusioner was killed
-[16:33:39] [Server thread/INFO]: Named entity class_1613['Illusioner'/55790, l='ServerLevel[world]', x=408.72, y=-400.00, z=-980.59] died: Illusioner was killed
-[16:33:39] [Server thread/INFO]: Named entity class_1581['Illusioner'/55791, l='ServerLevel[world]', x=408.72, y=-400.00, z=-980.59] died: Illusioner was killed
-[16:33:47] [Server thread/INFO]: Named entity class_1613['Illusioner'/55941, l='ServerLevel[world]', x=395.61, y=-400.00, z=-986.49] died: Illusioner was killed
-[16:33:47] [Server thread/INFO]: Named entity class_1581['Illusioner'/55942, l='ServerLevel[world]', x=395.61, y=-400.00, z=-986.49] died: Illusioner was killed
-[16:33:47] [Server thread/INFO]: Named entity class_1613['Illusioner'/55943, l='ServerLevel[world]', x=402.74, y=-400.00, z=-990.81] died: Illusioner was killed
-[16:33:47] [Server thread/INFO]: Named entity class_1581['Illusioner'/55944, l='ServerLevel[world]', x=402.74, y=-400.00, z=-990.81] died: Illusioner was killed
-[16:33:47] [Server thread/INFO]: Named entity class_1613['Illusioner'/55940, l='ServerLevel[world]', x=407.51, y=-400.00, z=-973.85] died: Illusioner was killed
-[16:33:47] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 410, 79, -983, minecraft:overworld
-[16:33:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/56092, l='ServerLevel[world]', x=412.23, y=-400.00, z=-980.09] died: Illusioner was killed
-[16:33:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/56093, l='ServerLevel[world]', x=412.23, y=-400.00, z=-980.09] died: Illusioner was killed
-[16:33:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/56089, l='ServerLevel[world]', x=411.87, y=-400.00, z=-982.81] died: Illusioner was killed
-[16:33:51] [Server thread/INFO]: Named entity class_1613['Illusioner'/56090, l='ServerLevel[world]', x=414.75, y=-400.00, z=-976.00] died: Illusioner was killed
-[16:33:51] [Server thread/INFO]: Named entity class_1581['Illusioner'/56091, l='ServerLevel[world]', x=414.75, y=-400.00, z=-976.00] died: Illusioner was killed
-[16:33:54] [Server thread/INFO]: Named entity class_1613['Illusioner'/56108, l='ServerLevel[world]', x=413.46, y=-400.00, z=-981.35] died: Illusioner was killed
-[16:33:54] [Server thread/INFO]: Named entity class_1613['Illusioner'/56109, l='ServerLevel[world]', x=414.84, y=-400.00, z=-982.70] died: Illusioner was killed
-[16:33:54] [Server thread/INFO]: Named entity class_1581['Illusioner'/56110, l='ServerLevel[world]', x=414.84, y=-400.00, z=-982.70] died: Illusioner was killed
-[16:33:54] [Server thread/INFO]: Named entity class_1613['Illusioner'/56111, l='ServerLevel[world]', x=419.87, y=-400.00, z=-988.81] died: Illusioner was killed
-[16:33:54] [Server thread/INFO]: Named entity class_1581['Illusioner'/56112, l='ServerLevel[world]', x=419.87, y=-400.00, z=-988.81] died: Illusioner was killed
-[16:33:59] [Server thread/INFO]: Named entity class_1613['Illusioner'/56153, l='ServerLevel[world]', x=411.25, y=-400.00, z=-979.59] died: Illusioner was killed
-[16:33:59] [Server thread/INFO]: Named entity class_1613['Illusioner'/56152, l='ServerLevel[world]', x=413.88, y=-400.00, z=-978.37] died: Illusioner was killed
-[16:33:59] [Server thread/INFO]: Named entity class_1581['Illusioner'/56154, l='ServerLevel[world]', x=411.25, y=-400.00, z=-979.59] died: Illusioner was killed
-[16:33:59] [Server thread/INFO]: Named entity class_1613['Illusioner'/56155, l='ServerLevel[world]', x=414.17, y=-400.00, z=-975.30] died: Illusioner was killed
-[16:33:59] [Server thread/INFO]: Named entity class_1581['Illusioner'/56156, l='ServerLevel[world]', x=414.17, y=-400.00, z=-975.30] died: Illusioner was killed
-[16:34:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/56194, l='ServerLevel[world]', x=411.91, y=-400.00, z=-982.48] died: Illusioner was killed
-[16:34:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/56195, l='ServerLevel[world]', x=411.91, y=-400.00, z=-982.48] died: Illusioner was killed
-[16:34:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/56191, l='ServerLevel[world]', x=416.13, y=-400.00, z=-979.71] died: Illusioner was killed
-[16:34:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/56192, l='ServerLevel[world]', x=418.70, y=-400.00, z=-974.30] died: Illusioner was killed
-[16:34:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/56193, l='ServerLevel[world]', x=418.70, y=-400.00, z=-974.30] died: Illusioner was killed
-[16:34:09] [Server thread/INFO]: Named entity class_1613['Illusioner'/56212, l='ServerLevel[world]', x=411.59, y=-400.00, z=-981.14] died: Illusioner was killed
-[16:34:09] [Server thread/INFO]: Named entity class_1581['Illusioner'/56213, l='ServerLevel[world]', x=411.59, y=-400.00, z=-981.14] died: Illusioner was killed
-[16:34:09] [Server thread/INFO]: Named entity class_1613['Illusioner'/56211, l='ServerLevel[world]', x=413.25, y=-400.00, z=-976.11] died: Illusioner was killed whilst fighting Illusioner
-[16:34:09] [Server thread/INFO]: Named entity class_1613['Illusioner'/56214, l='ServerLevel[world]', x=419.49, y=-400.00, z=-977.75] died: Illusioner was killed whilst fighting Illusioner
-[16:34:09] [Server thread/INFO]: Named entity class_1581['Illusioner'/56215, l='ServerLevel[world]', x=419.49, y=-400.00, z=-977.75] died: Illusioner was killed
-[16:34:11] [Server thread/INFO]: violetfoxx was killed by Illusioner using magic
-[16:34:12] [Server thread/INFO]: Named entity class_1613['Illusioner'/56294, l='ServerLevel[world]', x=417.25, y=-400.00, z=-980.11] died: Illusioner was killed
-[16:34:12] [Server thread/INFO]: Named entity class_1613['Illusioner'/56297, l='ServerLevel[world]', x=417.25, y=-400.00, z=-976.11] died: Illusioner was killed
-[16:34:13] [Server thread/INFO]: Named entity class_1581['Illusioner'/56312, l='ServerLevel[world]', x=409.25, y=-400.00, z=-972.11] died: Illusioner was killed
-[16:34:15] [Server thread/INFO]: Named entity class_1613['Illusioner'/56330, l='ServerLevel[world]', x=411.25, y=-400.00, z=-976.11] died: Illusioner was killed
-[16:34:15] [Server thread/INFO]: Named entity class_1581['Illusioner'/56331, l='ServerLevel[world]', x=411.25, y=-400.00, z=-976.11] died: Illusioner was killed
-[16:34:18] [Server thread/INFO]: Named entity class_1613['Illusioner'/56568, l='ServerLevel[world]', x=411.56, y=-400.00, z=-982.74] died: Illusioner was killed
-[16:34:18] [Server thread/INFO]: Named entity class_1613['Illusioner'/56569, l='ServerLevel[world]', x=410.76, y=-400.00, z=-988.59] died: Illusioner was killed
-[16:34:18] [Server thread/INFO]: Named entity class_1613['Illusioner'/56571, l='ServerLevel[world]', x=406.62, y=-400.00, z=-990.03] died: Illusioner was killed
-[16:34:18] [Server thread/INFO]: Named entity class_1581['Illusioner'/56572, l='ServerLevel[world]', x=406.62, y=-400.00, z=-990.03] died: Illusioner was killed
-[16:34:18] [Server thread/INFO]: Named entity class_1581['Illusioner'/56570, l='ServerLevel[world]', x=410.76, y=-400.00, z=-988.59] died: Illusioner was killed
-[16:34:19] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 416, 80, -979, minecraft:overworld
-[16:34:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/56604, l='ServerLevel[world]', x=407.08, y=-400.00, z=-977.51] died: Illusioner was killed
-[16:34:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/56605, l='ServerLevel[world]', x=407.08, y=-400.00, z=-977.51] died: Illusioner was killed
-[16:34:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/56606, l='ServerLevel[world]', x=422.17, y=-400.00, z=-982.39] died: Illusioner was killed
-[16:34:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/56607, l='ServerLevel[world]', x=422.17, y=-400.00, z=-982.39] died: Illusioner was killed
-[16:34:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/56603, l='ServerLevel[world]', x=417.70, y=-400.00, z=-981.39] died: Illusioner was killed
-[16:34:26] [Server thread/INFO]: Named entity class_1613['Illusioner'/56660, l='ServerLevel[world]', x=411.70, y=-400.00, z=-989.39] died: Illusioner was killed
-[16:34:26] [Server thread/INFO]: Named entity class_1613['Illusioner'/56661, l='ServerLevel[world]', x=428.37, y=-400.00, z=-980.62] died: Illusioner was killed
-[16:34:26] [Server thread/INFO]: Named entity class_1613['Illusioner'/56663, l='ServerLevel[world]', x=423.27, y=-400.00, z=-981.36] died: Illusioner was killed
-[16:34:26] [Server thread/INFO]: Named entity class_1581['Illusioner'/56662, l='ServerLevel[world]', x=428.37, y=-400.00, z=-980.62] died: Illusioner was killed
-[16:34:26] [Server thread/INFO]: Named entity class_1581['Illusioner'/56664, l='ServerLevel[world]', x=423.27, y=-400.00, z=-981.36] died: Illusioner was killed
-[16:34:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/56684, l='ServerLevel[world]', x=414.97, y=-400.00, z=-991.50] died: Illusioner was killed
-[16:34:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/56685, l='ServerLevel[world]', x=413.69, y=-400.00, z=-985.82] died: Illusioner was killed
-[16:34:28] [Server thread/INFO]: Named entity class_1581['Illusioner'/56686, l='ServerLevel[world]', x=413.69, y=-400.00, z=-985.82] died: Illusioner was killed
-[16:34:28] [Server thread/INFO]: Named entity class_1613['Illusioner'/56687, l='ServerLevel[world]', x=416.01, y=-400.00, z=-993.70] died: Illusioner was killed
-[16:34:28] [Server thread/INFO]: Named entity class_1581['Illusioner'/56688, l='ServerLevel[world]', x=416.01, y=-400.00, z=-993.70] died: Illusioner was killed
-[16:34:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/56740, l='ServerLevel[world]', x=414.04, y=-400.00, z=-994.51] died: Illusioner was killed
-[16:34:33] [Server thread/INFO]: Named entity class_1581['Illusioner'/56741, l='ServerLevel[world]', x=414.04, y=-400.00, z=-994.51] died: Illusioner was killed
-[16:34:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/56742, l='ServerLevel[world]', x=412.46, y=-400.00, z=-987.89] died: Illusioner was killed
-[16:34:33] [Server thread/INFO]: Named entity class_1581['Illusioner'/56743, l='ServerLevel[world]', x=412.46, y=-400.00, z=-987.89] died: Illusioner was killed
-[16:34:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/56739, l='ServerLevel[world]', x=413.70, y=-400.00, z=-988.50] died: Illusioner was killed
-[16:34:34] [Server thread/INFO]: Named entity class_1613['Illusioner'/56776, l='ServerLevel[world]', x=413.67, y=-400.00, z=-991.31] died: Illusioner was killed
-[16:34:34] [Server thread/INFO]: Named entity class_1581['Illusioner'/56777, l='ServerLevel[world]', x=413.67, y=-400.00, z=-991.31] died: Illusioner was killed
-[16:34:34] [Server thread/INFO]: Named entity class_1613['Illusioner'/56774, l='ServerLevel[world]', x=416.57, y=-400.00, z=-979.54] died: Illusioner was killed
-[16:34:34] [Server thread/INFO]: Named entity class_1581['Illusioner'/56775, l='ServerLevel[world]', x=416.57, y=-400.00, z=-979.54] died: Illusioner was killed
-[16:34:34] [Server thread/INFO]: Named entity class_1613['Illusioner'/56773, l='ServerLevel[world]', x=417.70, y=-400.00, z=-988.50] died: Illusioner was killed
-[16:34:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/56835, l='ServerLevel[world]', x=413.83, y=-400.00, z=-987.85] died: Illusioner was killed
-[16:34:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/56838, l='ServerLevel[world]', x=418.98, y=-400.00, z=-990.31] died: Illusioner was killed
-[16:34:40] [Server thread/INFO]: Named entity class_1581['Illusioner'/56839, l='ServerLevel[world]', x=418.98, y=-400.00, z=-990.31] died: Illusioner was killed
-[16:34:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/56836, l='ServerLevel[world]', x=417.38, y=-400.00, z=-991.62] died: Illusioner was killed
-[16:34:40] [Server thread/INFO]: Named entity class_1581['Illusioner'/56837, l='ServerLevel[world]', x=417.38, y=-400.00, z=-991.62] died: Illusioner was killed
-[16:34:41] [Server thread/INFO]: Named entity class_1613['Illusioner'/56852, l='ServerLevel[world]', x=414.79, y=-400.00, z=-989.75] died: Illusioner was killed
-[16:34:41] [Server thread/INFO]: Named entity class_1613['Illusioner'/56853, l='ServerLevel[world]', x=413.46, y=-400.00, z=-990.69] died: Illusioner was killed
-[16:34:41] [Server thread/INFO]: Named entity class_1581['Illusioner'/56854, l='ServerLevel[world]', x=413.46, y=-400.00, z=-990.69] died: Illusioner was killed
-[16:34:41] [Server thread/INFO]: Named entity class_1613['Illusioner'/56855, l='ServerLevel[world]', x=414.49, y=-400.00, z=-990.90] died: Illusioner was killed
-[16:34:41] [Server thread/INFO]: Named entity class_1581['Illusioner'/56856, l='ServerLevel[world]', x=414.49, y=-400.00, z=-990.90] died: Illusioner was killed
-[16:34:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/56871, l='ServerLevel[world]', x=412.79, y=-400.00, z=-991.75] died: Illusioner was killed
-[16:34:42] [Server thread/INFO]: Named entity class_1581['Illusioner'/56872, l='ServerLevel[world]', x=412.79, y=-400.00, z=-991.75] died: Illusioner was killed
-[16:34:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/56873, l='ServerLevel[world]', x=420.79, y=-400.00, z=-993.75] died: Illusioner was killed
-[16:34:42] [Server thread/INFO]: Named entity class_1581['Illusioner'/56874, l='ServerLevel[world]', x=420.79, y=-400.00, z=-993.75] died: Illusioner was killed
-[16:34:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/56870, l='ServerLevel[world]', x=418.79, y=-400.00, z=-983.75] died: Illusioner was killed
-[16:34:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/56886, l='ServerLevel[world]', x=414.87, y=-400.00, z=-981.72] died: Illusioner was killed
-[16:34:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/56887, l='ServerLevel[world]', x=420.96, y=-400.00, z=-985.69] died: Illusioner was killed
-[16:34:43] [Server thread/INFO]: Named entity class_1581['Illusioner'/56888, l='ServerLevel[world]', x=420.96, y=-400.00, z=-985.69] died: Illusioner was killed
-[16:34:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/56889, l='ServerLevel[world]', x=416.79, y=-400.00, z=-985.75] died: Illusioner was killed
-[16:34:43] [Server thread/INFO]: Named entity class_1581['Illusioner'/56890, l='ServerLevel[world]', x=416.79, y=-400.00, z=-985.75] died: Illusioner was killed
-[16:34:55] [Server thread/INFO]: Named entity class_1613['Illusioner'/56927, l='ServerLevel[world]', x=397.99, y=-400.00, z=-989.63] died: Illusioner was killed
-[16:34:55] [Server thread/INFO]: Named entity class_1581['Illusioner'/56928, l='ServerLevel[world]', x=397.99, y=-400.00, z=-989.63] died: Illusioner was killed
-[16:34:55] [Server thread/INFO]: Named entity class_1613['Illusioner'/56925, l='ServerLevel[world]', x=414.93, y=-400.00, z=-978.54] died: Illusioner was killed
-[16:34:55] [Server thread/INFO]: Named entity class_1581['Illusioner'/56926, l='ServerLevel[world]', x=414.93, y=-400.00, z=-978.54] died: Illusioner was killed
-[16:34:55] [Server thread/INFO]: Named entity class_1613['Illusioner'/56924, l='ServerLevel[world]', x=400.13, y=-400.00, z=-976.06] died: Illusioner was killed
-[16:35:00] [Server thread/INFO]: Named entity class_1613['Illusioner'/57026, l='ServerLevel[world]', x=392.18, y=-400.00, z=-981.58] died: Illusioner was killed
-[16:35:00] [Server thread/INFO]: Named entity class_1581['Illusioner'/57027, l='ServerLevel[world]', x=392.18, y=-400.00, z=-981.58] died: Illusioner was killed
-[16:35:00] [Server thread/INFO]: Named entity class_1613['Illusioner'/57024, l='ServerLevel[world]', x=399.23, y=-400.00, z=-973.70] died: Illusioner was killed
-[16:35:00] [Server thread/INFO]: Named entity class_1581['Illusioner'/57025, l='ServerLevel[world]', x=399.23, y=-400.00, z=-973.70] died: Illusioner was killed
-[16:35:00] [Server thread/INFO]: Named entity class_1613['Illusioner'/57023, l='ServerLevel[world]', x=406.03, y=-400.00, z=-977.54] died: Illusioner was killed
-[16:35:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/57041, l='ServerLevel[world]', x=407.42, y=-400.00, z=-978.06] died: Illusioner was killed whilst fighting Illusioner
-[16:35:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/57042, l='ServerLevel[world]', x=408.86, y=-400.00, z=-978.24] died: Illusioner was killed whilst fighting Illusioner
-[16:35:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/57043, l='ServerLevel[world]', x=408.86, y=-400.00, z=-978.24] died: Illusioner was killed
-[16:35:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/57044, l='ServerLevel[world]', x=404.85, y=-400.00, z=-975.30] died: Illusioner was killed
-[16:35:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/57045, l='ServerLevel[world]', x=404.85, y=-400.00, z=-975.30] died: Illusioner was killed
-[16:35:03] [Server thread/INFO]: Named entity class_1613['Illusioner'/57059, l='ServerLevel[world]', x=399.42, y=-400.00, z=-982.06] died: Illusioner was killed
-[16:35:03] [Server thread/INFO]: Named entity class_1613['Illusioner'/57062, l='ServerLevel[world]', x=409.37, y=-400.00, z=-976.06] died: Illusioner was killed
-[16:35:03] [Server thread/INFO]: Named entity class_1581['Illusioner'/57063, l='ServerLevel[world]', x=409.37, y=-400.00, z=-976.06] died: Illusioner was killed
-[16:35:03] [Server thread/INFO]: Named entity class_1613['Illusioner'/57060, l='ServerLevel[world]', x=407.42, y=-400.00, z=-972.06] died: Illusioner was killed
-[16:35:03] [Server thread/INFO]: Named entity class_1581['Illusioner'/57061, l='ServerLevel[world]', x=407.42, y=-400.00, z=-972.06] died: Illusioner was killed
-[16:35:04] [Server thread/INFO]: Named entity class_1613['Illusioner'/57071, l='ServerLevel[world]', x=396.45, y=-400.00, z=-984.52] died: Illusioner was killed
-[16:35:04] [Server thread/INFO]: Named entity class_1613['Illusioner'/57072, l='ServerLevel[world]', x=399.56, y=-400.00, z=-980.55] died: Illusioner was killed
-[16:35:04] [Server thread/INFO]: Named entity class_1613['Illusioner'/57074, l='ServerLevel[world]', x=398.18, y=-400.00, z=-979.36] died: Illusioner was killed
-[16:35:04] [Server thread/INFO]: Named entity class_1581['Illusioner'/57075, l='ServerLevel[world]', x=398.18, y=-400.00, z=-979.36] died: Illusioner was killed
-[16:35:04] [Server thread/INFO]: Named entity class_1581['Illusioner'/57073, l='ServerLevel[world]', x=399.56, y=-400.00, z=-980.55] died: Illusioner was killed
-[16:35:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/57087, l='ServerLevel[world]', x=386.60, y=-400.00, z=-986.70] died: Illusioner was killed
-[16:35:07] [Server thread/INFO]: Named entity class_1581['Illusioner'/57088, l='ServerLevel[world]', x=386.60, y=-400.00, z=-986.70] died: Illusioner was killed
-[16:35:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/57085, l='ServerLevel[world]', x=394.21, y=-400.00, z=-975.30] died: Illusioner was killed
-[16:35:07] [Server thread/INFO]: Named entity class_1581['Illusioner'/57086, l='ServerLevel[world]', x=394.21, y=-400.00, z=-975.30] died: Illusioner was killed
-[16:35:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/57084, l='ServerLevel[world]', x=401.94, y=-400.00, z=-976.81] died: Illusioner was killed
-[16:35:15] [Server thread/INFO]: Named entity class_1613['Illusioner'/57120, l='ServerLevel[world]', x=399.18, y=-400.00, z=-984.60] died: Illusioner was killed
-[16:35:15] [Server thread/INFO]: Named entity class_1581['Illusioner'/57121, l='ServerLevel[world]', x=399.18, y=-400.00, z=-984.60] died: Illusioner was killed
-[16:35:15] [Server thread/INFO]: Named entity class_1613['Illusioner'/57117, l='ServerLevel[world]', x=396.06, y=-400.00, z=-975.30] died: Illusioner was killed whilst fighting Illusioner
-[16:35:15] [Server thread/INFO]: Named entity class_1613['Illusioner'/57118, l='ServerLevel[world]', x=403.05, y=-400.00, z=-982.21] died: Illusioner was killed
-[16:35:15] [Server thread/INFO]: Named entity class_1581['Illusioner'/57119, l='ServerLevel[world]', x=403.05, y=-400.00, z=-982.21] died: Illusioner was killed
-[16:35:16] [Server thread/INFO]: violetfoxx has made the advancement [Shows Over!]
-[16:35:23] [Server thread/INFO]: [Not Secure] <EmpaXG04> a puros logros ustedes
-[16:36:10] [Server thread/INFO]: [Not Secure] <pitulinaso> YA SE ROMPEN LOS HUEVOS
-[16:40:25] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:40:25] [Server thread/INFO]: yiu<--[HERE]
-[16:41:38] [Server thread/INFO]: EmpaXG04 was slain by Zombie
-[16:41:47] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -1175, 69, -1716, minecraft:overworld
-[16:45:26] [Server thread/INFO]: pitulinaso was slain by Spider
-[16:45:48] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1247, 63, 312, minecraft:overworld
-[16:46:20] [Server thread/INFO]: EmpaXG04 was slain by Enderman
-[16:46:25] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -1199, 64, -1704, minecraft:overworld
-[16:51:34] [Server thread/INFO]: violetfoxx lost connection: Disconnected
-[16:51:34] [Server thread/INFO]: violetfoxx left the game
-[17:02:58] [Server thread/INFO]: pitulinaso was slain by Zombie
-[17:03:26] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1242, 62, 296, minecraft:overworld
-[17:13:07] [Server thread/INFO]: pitulinaso was shot by pitulinaso
-[17:13:11] [Server thread/INFO]: [Not Secure] <EmpaXG04> ke
-[17:13:16] [Server thread/INFO]: [Not Secure] <EmpaXG04> aaah tiraste flecha arriba
-[17:13:18] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1249, 63, 303, minecraft:overworld
-[17:25:20] [Server thread/INFO]: pitulinaso was slain by Zombie
-[17:26:12] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1245, 63, 288, minecraft:overworld
-[17:31:39] [Server thread/INFO]: [Not Secure] <EmpaXG04> che negro
-[17:41:53] [Server thread/INFO]: pitulinaso was slain by Zombie
-[17:43:58] [Server thread/INFO]: violetfoxx[/172.25.212.71:51430] logged in with entity id 86601 at (396.87727400852077, 79.0, -990.2491909489995)
-[17:43:58] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
-[17:43:58] [Server thread/INFO]: violetfoxx joined the game
-[17:44:00] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
-[17:44:28] [Server thread/INFO]: violetfoxx lost connection: Timed out
-[17:44:28] [Server thread/INFO]: violetfoxx left the game
-[17:53:29] [Server thread/INFO]: violetfoxx[/172.25.212.71:54637] logged in with entity id 88747 at (396.87727400852077, 79.0, -990.2491909489995)
-[17:53:29] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
-[17:53:29] [Server thread/INFO]: violetfoxx joined the game
-[17:53:31] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
-[17:54:41] [Server thread/WARN]: violetfoxx moved too quickly! -9.807821561943399,-1.0013359791121417,-1.8761257591004323
-[17:55:03] [Server thread/WARN]: violetfoxx was kicked for floating too long!
-[17:55:04] [Server thread/INFO]: violetfoxx lost connection: Flying is not enabled on this server
-[17:55:04] [Server thread/INFO]: violetfoxx left the game
-[17:55:17] [Server thread/INFO]: violetfoxx[/172.25.212.71:51358] logged in with entity id 89451 at (403.3972491589967, 79.6906999805212, -980.1957108837075)
-[17:55:17] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
-[17:55:17] [Server thread/INFO]: violetfoxx joined the game
-[17:55:18] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
-[17:56:02] [Server thread/WARN]: violetfoxx moved too quickly! -9.213679178861753,2.7531999805212024,-3.392744476917983
-[17:56:15] [Server thread/INFO]: [Not Secure] <EmpaXG04> negro
-[17:56:22] [Server thread/INFO]: [Not Secure] <violetfoxx> blanco
-[17:56:29] [Server thread/INFO]: [Not Secure] <EmpaXG04> tenes sandia?
-[17:57:09] [Server thread/INFO]: [Not Secure] <violetfoxx> io no mano
-[17:57:29] [Server thread/INFO]: [Not Secure] <EmpaXG04> recien termino mi granja y estaba viendo eso jajsajsjas
-[17:57:33] [Server thread/INFO]: [Not Secure] <EmpaXG04> re verga, bueno
-[17:58:03] [Server thread/INFO]: [EmpaXG04: Set own game mode to Creative Mode]
-[17:58:39] [Server thread/INFO]: [EmpaXG04: Set own game mode to Survival Mode]
-[18:04:24] [Server thread/INFO]: [Not Secure] <violetfoxx> a la maula tan juertes los rayos
-[18:10:42] [Server thread/INFO]: EmpaXG04 was shot by Skeleton
-[18:10:48] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -424, 61, -1708, minecraft:overworld
-[18:19:45] [Server thread/INFO]: [Not Secure] <EmpaXG04> che amigo
-[18:19:50] [Server thread/INFO]: [Not Secure] <EmpaXG04> me duele el culo para subir niveles
-[18:19:51] [Server thread/INFO]: [Not Secure] <violetfoxx> si
-[18:20:00] [Server thread/INFO]: [Not Secure] <violetfoxx> x2
-[18:20:13] [Server thread/INFO]: [Not Secure] <violetfoxx> jaskdjakdkja re cuesta unhuevo subir
-[18:20:18] [Server thread/INFO]: [Not Secure] <EmpaXG04> ahora si
-[18:20:22] [Server thread/INFO]: [Not Secure] <EmpaXG04> yo necesito casi 500
-[18:20:31] [Server thread/INFO]: [Not Secure] <violetfoxx> hijueputa
-[18:20:38] [Server thread/INFO]: [Not Secure] <violetfoxx> es un monton
-[18:20:53] [Server thread/INFO]: [Not Secure] <EmpaXG04> 422 para el 62
-[18:20:57] [Server thread/INFO]: [Not Secure] <violetfoxx> es como el verdadero cada orbe cuenta
-[18:23:36] [Server thread/INFO]: violetfoxx was slain by Zombie
-[18:23:53] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 481, 72, -966, minecraft:overworld
-[18:24:30] [Server thread/INFO]: EmpaXG04 was blown up by Creeper
-[18:24:30] [Server thread/WARN]: violetfoxx moved too quickly! 0.24209303782657798,0.0,-10.13415768612947
-[18:24:36] [Server thread/INFO]: [Not Secure] <EmpaXG04> 5 creepers juntos
-[18:24:37] [Server thread/INFO]: [Not Secure] <EmpaXG04> miamor
-[18:24:42] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -968, 64, -1807, minecraft:overworld
-[18:24:43] [Server thread/WARN]: violetfoxx moved too quickly! 8.756462549234243,0.0,5.013697686535579
-[18:24:54] [Server thread/INFO]: violetfoxx was slain by Spider
-[18:25:29] [Server thread/INFO]: EmpaXG04 was blown up by Creeper
-[18:25:34] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -974, 65, -1798, minecraft:overworld
-[18:25:34] [Server thread/INFO]: violetfoxx was slain by Spider
-[18:25:34] [Server thread/INFO]: Did not backup data (grave data empty)
-[18:25:44] [Server thread/INFO]: [Not Secure] <EmpaXG04> cldo, es una super araña la tuya?
-[18:25:50] [Server thread/INFO]: violetfoxx lost connection: Timed out
-[18:25:50] [Server thread/INFO]: violetfoxx left the game
-[18:27:54] [Server thread/INFO]: violetfoxx[/172.25.212.71:52995] logged in with entity id 103833 at (480.9140107540909, 79.0, -993.6596336854238)
-[18:27:54] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
-[18:27:54] [Server thread/INFO]: violetfoxx joined the game
-[18:27:56] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
-[18:28:26] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 482, 79, -995, minecraft:overworld
-[18:29:43] [Server thread/INFO]: [Not Secure] <violetfoxx> ahoraaaaa seeeee
-[18:29:56] [Server thread/INFO]: [Not Secure] <violetfoxx> lpm no me tolera el joymap
-[18:30:05] [Server thread/INFO]: [Not Secure] <violetfoxx> o no me acuerdo como se llama
-[18:30:10] [Server thread/INFO]: [Not Secure] <violetfoxx> :(
-[18:30:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1155, y=75, z=-1697} class_2338{x=-1155, y=73, z=-1696}
-[18:30:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1155, y=75, z=-1697} class_2338{x=-1155, y=73, z=-1696}
-[18:39:34] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 397.500000, 79.000000, -1004.500000]
-[18:44:29] [Server thread/INFO]: EmpaXG04 has made the advancement [Take Aim]
-[18:45:07] [Server thread/INFO]: EmpaXG04 was blown up by Creeper
-[18:45:19] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at -968, 78, -1595, minecraft:overworld
-[18:46:01] [Server thread/INFO]: [Not Secure] <EmpaXG04> che vagos
-[18:46:06] [Server thread/INFO]: [Not Secure] <violetfoxx> yes
-[18:46:07] [Server thread/INFO]: [Not Secure] <EmpaXG04> se van a poder meter al ds por lo de taller?
-[18:46:17] [Server thread/INFO]: [Not Secure] <violetfoxx> ehhhh si
-[18:46:39] [Server thread/INFO]: [Not Secure] <violetfoxx> para que me ta matando un zombie
-[18:46:52] [Server thread/INFO]: [Not Secure] <violetfoxx> ehh creeria que si
-[18:47:25] [Server thread/INFO]: [Not Secure] <EmpaXG04> yo me voy metiendo ahora
-[18:55:08] [Server thread/INFO]: violetfoxx lost connection: Disconnected
-[18:55:08] [Server thread/INFO]: violetfoxx left the game
-[18:59:06] [Server thread/INFO]: EmpaXG04 lost connection: Disconnected
-[18:59:06] [Server thread/INFO]: EmpaXG04 left the game
-[19:15:38] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1241, 63, 289, minecraft:overworld
-[19:16:35] [Server thread/INFO]: EmpaXG04[/172.25.58.124:65183] logged in with entity id 114877 at (-1158.2171002046723, 37.0, -1721.5438941139803)
-[19:16:35] [Server thread/INFO]: Syncing config to EmpaXG04 (6108b51e-516d-3e08-b844-60027275940a)
-[19:16:35] [Server thread/INFO]: EmpaXG04 joined the game
-[19:16:36] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player EmpaXG04. Claiming: GRAVE / Robbing: INVENTORY
+[21:47:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server-parte-do/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:47:00] [main/INFO]: Compatibility level set to JAVA_17
+[21:47:01] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:47:01] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:47:02] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[21:47:02] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[21:47:02] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[21:47:02] [main/WARN]: Error loading class: com/tiviacz/travelersbackpack/compat/trinkets/TravelersBackpackTrinket (java.lang.ClassNotFoundException: com/tiviacz/travelersbackpack/compat/trinkets/TravelersBackpackTrinket)
+[21:47:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:47:13] [main/INFO]: Loaded config amendments-common.json
+[21:47:14] [main/INFO]: fabric loader environment detected
+[21:47:14] [main/ERROR]: No data fixer registered for jungle_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for bamboo_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for desert_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for badlands_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for hills_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for savannah_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for mushroom_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for swamp_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for dripstone_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for cave_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for dark_oak_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for spruce_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for beach_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for snowy_creeper
+[21:47:14] [main/ERROR]: No data fixer registered for ocean_creeper
+[21:47:14] [main/INFO]: Initializing ServerSide Packet Registries
+[21:47:15] [main/ERROR]: No data fixer registered for battlestandard
+[21:47:15] [main/ERROR]: No data fixer registered for battlestandarddark
+[21:47:15] [main/ERROR]: No data fixer registered for simplyswords:simplybeeentity
+[21:47:15] [main/INFO]: [STDOUT]: /workspaces/server-parte-do/servidor_minecraft/config
+[21:47:16] [main/INFO]: Loaded config supplementaries-common.json
+[21:47:16] [main/ERROR]: No data fixer registered for theorcs:orc_grunt
+[21:47:16] [main/ERROR]: No data fixer registered for theorcs:orc_shaman
+[21:47:16] [main/ERROR]: No data fixer registered for theorcs:orc_ranger
+[21:47:16] [main/ERROR]: No data fixer registered for theorcs:orc_boss
+[21:47:17] [main/INFO]: Initialized block sets in 14ms
+[21:47:17] [main/ERROR]: No data fixer registered for falling_lantern
+[21:47:17] [main/ERROR]: No data fixer registered for dispenser_minecart
+[21:47:17] [main/ERROR]: No data fixer registered for falling_urn
+[21:47:17] [main/ERROR]: No data fixer registered for falling_ash
+[21:47:17] [main/ERROR]: No data fixer registered for falling_sack
+[21:47:17] [main/ERROR]: No data fixer registered for brick_projectile
+[21:47:17] [main/ERROR]: No data fixer registered for slimeball_projectile
+[21:47:17] [main/ERROR]: No data fixer registered for bomb
+[21:47:17] [main/ERROR]: No data fixer registered for cannonball
+[21:47:17] [main/ERROR]: No data fixer registered for rope_arrow
+[21:47:17] [main/ERROR]: No data fixer registered for slingshot_projectile
+[21:47:17] [main/INFO]: Initialized color sets in 54ms
+[21:47:17] [main/INFO]: Finished mod setup in: [0, 1, 0, 3, 0, 1, 23, 4, 1] ms
+[21:47:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:47:18] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 49 ms
+[21:47:19] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[21:47:20] [Worker-Main-3/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[21:47:22] [main/INFO]: Loaded 14 recipes
+[21:47:22] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[21:47:22] [main/INFO]: Loaded 1805 advancements
+[21:47:22] [main/INFO]: Loaded 27 flute songs
+[21:47:22] [main/INFO]: Reloading grave shape (server)
+[21:47:22] [main/INFO]: Grave model and shape reload successful (server)
+[21:47:22] [main/INFO]: Reloading YIGD graveyard data (server)
+[21:47:23] [main/INFO]: Graveyard data successfully reloaded (server)
+[21:47:23] [main/INFO]: Reloading YIGD grave area overrides (server)
+[21:47:23] [main/INFO]: Grave area overrides successfully reloaded (server)
+[21:47:23] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: 1_splatus:spellbound/hot
+[21:47:24] [main/INFO]: Applied 7 data villager trades
+[21:47:24] [main/INFO]: Finished additional setup in 0 ms
+[21:47:24] [main/INFO]: Applied 593 biome modifications to 63 of 64 new biomes in 34.02 ms
+[21:47:24] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:47:24] [Server thread/INFO]: Loading properties
+[21:47:24] [Server thread/INFO]: Default game type: SURVIVAL
+[21:47:24] [Server thread/INFO]: Generating keypair
+[21:47:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:47:25] [Server thread/INFO]: Using epoll channel type
+[21:47:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:47:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:47:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:47:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:47:25] [Server thread/INFO]: Preparing level "world"
+[21:47:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:47:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:47:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:47:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:47:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:47:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:47:35] [Worker-Main-3/INFO]: Preparing spawn area: 20%
+[21:47:36] [Worker-Main-2/INFO]: Preparing spawn area: 62%
+[21:47:36] [Server thread/INFO]: Time elapsed: 7998 ms
+[21:47:36] [Server thread/INFO]: Done (11.572s)! For help, type "help"
+[21:47:36] [Server thread/INFO]: Start loading plugin from Jade
+[21:47:36] [Server thread/INFO]: Start loading plugin from Jade
+[21:47:37] [Server thread/INFO]: Start loading plugin from Jade
+[21:47:37] [Server thread/INFO]: Start loading plugin from LevelZ
+[21:47:37] [Server thread/INFO]: Start loading plugin from Supplementaries
+[21:47:43] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[21:47:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11104ms or 222 ticks behind
+[21:48:48] [Server thread/INFO]: violetfoxx[/172.25.212.71:64274] logged in with entity id 40 at (419.3997130684092, 79.0, -991.7771056551902)
+[21:48:48] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
+[21:48:49] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
+[21:48:53] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[21:48:56] [Server thread/INFO]: violetfoxx joined the game
+[21:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7972ms or 159 ticks behind
+[21:49:37] [Server thread/WARN]: violetfoxx moved too quickly! 7.235047777592115,-1.7967356006687112,-6.750753372916051
+[21:51:56] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 130.500000, 64.000000, -985.500000]
