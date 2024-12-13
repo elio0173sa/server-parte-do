@@ -246,3 +246,14 @@
 [04:32:09] [Server thread/INFO]: pitulinaso was slain by Desert Rhino
 [04:32:09] [Server thread/INFO]: Did not backup data (grave data empty)
 [04:32:17] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 3000, 88, -2984, minecraft:overworld
+[04:35:57] [Worker-Main-9/WARN]: Empty height range: [0 absolute--16 absolute]
+[04:36:12] [Server thread/WARN]: pitulinaso moved too quickly! 9.81087996283668,1.6668000063657757,-1.2693973545551671
+[04:36:17] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[04:36:24] [Worker-Main-13/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[04:36:45] [Server thread/INFO]: EmpaXG04 lost connection: Disconnected
+[04:36:45] [Server thread/INFO]: EmpaXG04 left the game
+[04:38:10] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 130.500000, 64.000000, -985.500000]
+[04:38:59] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 397.500000, 79.000000, -1004.500000]
+[04:42:50] [pool-4-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=3397, y=91, z=-3627}
+[04:43:22] [Server thread/INFO]: pitulinaso fell from a high place
+[04:43:31] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 3406, 101, -3427, minecraft:overworld
