@@ -2836,12 +2836,6 @@
     },
     "done": true
   },
-  "1_splatus:ultris/technical/used_shield": {
-    "criteria": {
-      "requirement": "2024-12-13 16:35:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-13 02:49:20 +0000"
@@ -2914,7 +2908,37 @@
     },
     "done": true
   },
+  "1_splatus:ultris/ender": {
+    "criteria": {
+      "c1": "2024-12-13 16:08:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-13 16:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-13 16:23:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 16:26:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-13 16:26:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_nugget": "2024-12-13 16:26:32 +0000"
     },
@@ -2926,39 +2950,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-13 16:26:32 +0000"
-    },
-    "done": true
-  },
   "1_splatus:ultris/technical/illusioner_kill": {
     "criteria": {
       "c1": "2024-12-13 16:35:16 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/ender": {
-    "criteria": {
-      "c1": "2024-12-13 16:08:50 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-13 16:26:32 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/completed": {
-    "criteria": {
-      "illusioner": "2024-12-13 16:45:30 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/sconce_soul": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-13 16:23:55 +0000"
     },
     "done": true
   },
@@ -2968,11 +2962,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "has_iron_nugget": "2024-12-13 16:23:55 +0000"
+      "requirement": "2024-12-13 16:35:17 +0000"
     },
     "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "illusioner": "2024-12-13 16:45:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
