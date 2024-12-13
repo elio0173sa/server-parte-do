@@ -499,3 +499,19 @@
 [15:50:30] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [15:51:20] [Server thread/INFO]: [pitulinaso: Set the weather to clear]
 [16:03:05] [Server thread/INFO]: pitulinaso was blown up by Creeper
+[16:03:13] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1381, 70, 151, minecraft:overworld
+[16:05:36] [Server thread/INFO]: violetfoxx was slain by Zombie
+[16:06:16] [Server thread/INFO]: pitulinaso was slain by Enderman
+[16:06:22] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1309, 67, 202, minecraft:overworld
+[16:07:18] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 437, 58, -990, minecraft:overworld
+[16:08:23] [Server thread/INFO]: [pitulinaso: Teleported pitulinaso to violetfoxx]
+[16:08:50] [Server thread/INFO]: violetfoxx has made the advancement [Corrupted]
+[16:10:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:10:41] [Server thread/INFO]: nhjb<--[HERE]
+[16:12:40] [Server thread/INFO]: EmpaXG04[/172.25.58.124:64529] logged in with entity id 36718 at (-1155.1493149404748, 75.0, -1725.6404771571843)
+[16:12:40] [Server thread/INFO]: Syncing config to EmpaXG04 (6108b51e-516d-3e08-b844-60027275940a)
+[16:12:40] [Server thread/INFO]: EmpaXG04 joined the game
+[16:12:41] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player EmpaXG04. Claiming: GRAVE / Robbing: INVENTORY
+[16:12:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1232, y=46, z=99} class_2338{x=1232, y=47, z=99}
+[16:12:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1232, y=46, z=100} class_2338{x=1232, y=47, z=100}
+[16:12:56] [Server thread/INFO]: [Not Secure] <EmpaXG04> volvio el mas kpito
