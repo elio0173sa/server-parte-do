@@ -2914,6 +2914,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/iguana_meat": {
+    "criteria": {
+      "got_the_iguana_meat": "2024-12-13 03:25:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-13 02:16:14 +0000"
@@ -2983,6 +2989,12 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2024-12-13 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/iguana_hide_recipe": {
+    "criteria": {
+      "got_the_iguana_hide": "2024-12-13 03:23:46 +0000"
     },
     "done": true
   },
