@@ -25,8 +25,10 @@
       "minecraft:sunflower_plains": "2024-12-12 01:39:26 +0000",
       "minecraft:cherry_grove": "2024-12-12 15:03:51 +0000",
       "minecraft:birch_forest": "2024-12-12 01:52:30 +0000",
+      "minecraft:bamboo_jungle": "2024-12-13 02:45:47 +0000",
       "minecraft:beach": "2024-12-11 05:08:33 +0000",
       "minecraft:dark_forest": "2024-12-12 01:53:05 +0000",
+      "minecraft:sparse_jungle": "2024-12-13 02:27:55 +0000",
       "minecraft:river": "2024-12-11 04:59:41 +0000",
       "minecraft:snowy_plains": "2024-12-11 05:30:57 +0000",
       "minecraft:dripstone_caves": "2024-12-11 21:27:00 +0000",
@@ -37,6 +39,7 @@
       "minecraft:flower_forest": "2024-12-12 01:38:27 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 21:17:05 +0000",
       "minecraft:meadow": "2024-12-11 06:49:46 +0000",
+      "minecraft:savanna": "2024-12-13 02:16:38 +0000",
       "minecraft:plains": "2024-12-11 05:10:50 +0000"
     },
     "done": false
@@ -598,6 +601,7 @@
       "cooked_porkchop": "2024-12-11 06:48:55 +0000",
       "cooked_mutton": "2024-12-12 13:58:19 +0000",
       "cooked_beef": "2024-12-11 22:42:54 +0000",
+      "baked_potato": "2024-12-13 02:23:09 +0000",
       "bread": "2024-12-11 05:11:24 +0000"
     },
     "done": false
@@ -2950,9 +2954,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_pink_petals": "2024-12-12 15:04:13 +0000"
+      "has_log": "2024-12-12 13:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 13:48:52 +0000"
     },
     "done": true
   },
@@ -2968,15 +2978,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2024-12-12 14:31:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:28:08 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2024-12-12 14:30:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-12 14:31:06 +0000"
     },
     "done": true
   },
@@ -2998,33 +3062,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2024-12-12 14:28:08 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_dark_oak": {
-    "criteria": {
-      "has_planks": "2024-12-12 14:28:08 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/illusioner": {
-    "criteria": {
-      "c1": "2024-12-12 14:30:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-12 14:31:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2024-12-12 15:03:56 +0000"
     },
     "done": true
   },
@@ -3034,33 +3074,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/pancake_fd": {
-    "criteria": {
-      "has_sugar": "2024-12-12 15:41:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-12 14:31:06 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:hidden_unlocks/barks": {
-    "criteria": {
-      "has_item": "2024-12-12 15:12:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2024-12-12 15:03:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-12 14:28:08 +0000"
     },
     "done": true
   },
@@ -3070,63 +3086,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-12 14:28:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-12 14:31:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2024-12-12 14:28:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-12 14:28:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-12 13:48:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-12 14:28:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-12 13:48:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sugar_cube": {
-    "criteria": {
-      "has_sugar": "2024-12-12 15:41:15 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_sugar": "2024-12-12 15:41:15 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/misc/wood_ash_from_campfire_cooking": {
-    "criteria": {
-      "has_item": "2024-12-12 15:12:37 +0000"
     },
     "done": true
   },
@@ -3142,9 +3104,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
-      "has_planks": "2024-12-12 14:28:08 +0000"
+      "has_log": "2024-12-12 15:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-12 15:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-12 15:04:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/barks": {
+    "criteria": {
+      "has_item": "2024-12-12 15:12:37 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/wood_ash_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-12-12 15:12:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2024-12-12 15:41:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-12-12 15:41:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2024-12-12 15:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-13 01:54:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-13 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-13 02:45:36 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/taglock": {
+    "criteria": {
+      "has_item": "2024-12-13 02:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 02:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-13 02:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-13 02:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-13 02:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-13 02:22:29 +0000"
     },
     "done": true
   },
