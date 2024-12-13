@@ -271,3 +271,13 @@
 [04:48:48] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [05:03:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [05:03:54] [Server thread/INFO]: nbjm,k<--[HERE]
+[05:05:57] [Server thread/INFO]: violetfoxx[/172.25.212.71:53640] logged in with entity id 19727 at (398.63909769084705, 77.0, -1014.0791415207758)
+[05:05:57] [Server thread/INFO]: Syncing config to violetfoxx (2f063922-f761-3c03-bd8f-35e2f3ef9fb4)
+[05:05:57] [Server thread/INFO]: violetfoxx joined the game
+[05:05:59] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player violetfoxx. Claiming: GRAVE / Robbing: INVENTORY
+[05:06:52] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 398.500000, 77.000000, -1014.500000]
+[05:06:54] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 398, 77, -1015, minecraft:overworld
+[05:09:08] [Server thread/INFO]: pitulinaso was blown up by Creeper
+[05:09:46] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1322, 68, 198, minecraft:overworld
+[05:10:15] [Server thread/INFO]: violetfoxx was slain by Enderman
+[05:10:22] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 418, 79, -992, minecraft:overworld
