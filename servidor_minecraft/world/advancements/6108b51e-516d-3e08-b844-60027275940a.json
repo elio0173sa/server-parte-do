@@ -31,11 +31,15 @@
       "minecraft:sparse_jungle": "2024-12-13 02:27:55 +0000",
       "minecraft:river": "2024-12-11 04:59:41 +0000",
       "minecraft:snowy_plains": "2024-12-11 05:30:57 +0000",
+      "minecraft:stony_shore": "2024-12-13 02:56:04 +0000",
       "minecraft:dripstone_caves": "2024-12-11 21:27:00 +0000",
+      "minecraft:grove": "2024-12-13 03:03:08 +0000",
       "minecraft:cold_ocean": "2024-12-11 05:08:48 +0000",
       "minecraft:forest": "2024-12-11 05:10:43 +0000",
       "minecraft:ocean": "2024-12-11 06:28:05 +0000",
+      "minecraft:jungle": "2024-12-13 02:48:49 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-11 04:56:24 +0000",
+      "minecraft:windswept_savanna": "2024-12-13 02:53:18 +0000",
       "minecraft:flower_forest": "2024-12-12 01:38:27 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 21:17:05 +0000",
       "minecraft:meadow": "2024-12-11 06:49:46 +0000",
@@ -3230,9 +3234,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/witch_cauldron": {
+    "criteria": {
+      "has_item": "2024-12-13 02:50:27 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/obsidian_witch_altar": {
+    "criteria": {
+      "has_item": "2024-12-13 02:54:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2024-12-13 02:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-13 02:54:17 +0000"
     },
     "done": true
   },
@@ -3257,6 +3279,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-12-13 02:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-13 02:54:17 +0000"
     },
     "done": true
   },

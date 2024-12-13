@@ -297,3 +297,32 @@
 [02:50:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=1051, y=69, z=-3925}
 [02:51:56] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [02:52:46] [Server thread/INFO]: pitulinaso was slain by Ocean Creeper
+[02:53:00] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 2570, 60, -1460, minecraft:overworld
+[02:53:24] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02:53:50] [Server thread/INFO]: pitulinaso was slain by Ocean Creeper
+[02:54:02] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 2595, 63, -1618, minecraft:overworld
+[02:54:17] [Server thread/INFO]: EmpaXG04 has made the advancement [Ice Bucket Challenge]
+[02:55:51] [Server thread/INFO]: pitulinaso has made the advancement [Suit Up]
+[02:56:18] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[02:56:18] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[02:57:55] [Server thread/INFO]: pitulinaso has made the advancement [What a Deal!]
+[02:59:12] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 397.500000, 79.000000, -1004.500000]
+[02:59:17] [pool-4-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=1963, y=91, z=-5035}
+[02:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[02:59:44] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03:02:34] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 130.500000, 64.000000, -985.500000]
+[03:02:57] [Server thread/INFO]: pitulinaso was slain by Enderman
+[03:03:05] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 2690, 63, -1859, minecraft:overworld
+[03:05:36] [Server thread/INFO]: pitulinaso was slain by Zombie
+[03:05:53] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 2819, 72, -1899, minecraft:overworld
+[03:06:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:06:53] [Server thread/INFO]: ds<--[HERE]
+[03:07:36] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 397.500000, 79.000000, -1004.500000]
+[03:08:19] [Server thread/INFO]: pitulinaso was slain by Zombie
+[03:08:33] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 2878, 70, -1880, minecraft:overworld
+[03:08:47] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 130.500000, 64.000000, -985.500000]
+[03:10:24] [Server thread/INFO]: violetfoxx was slain by Enderman
+[03:10:36] [Server thread/INFO]: [violetfoxx: Teleported violetfoxx to 177.500000, 65.000000, -1054.500000]
+[03:10:37] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 177, 65, -1055, minecraft:overworld
+[03:10:51] [Server thread/INFO]: EmpaXG04 lost connection: Disconnected
+[03:10:51] [Server thread/INFO]: EmpaXG04 left the game

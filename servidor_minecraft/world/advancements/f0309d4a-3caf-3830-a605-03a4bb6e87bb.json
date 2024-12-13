@@ -17,6 +17,7 @@
       "minecraft:dark_forest": "2024-12-11 05:36:26 +0000",
       "minecraft:river": "2024-12-11 04:43:43 +0000",
       "minecraft:lukewarm_ocean": "2024-12-13 02:38:46 +0000",
+      "minecraft:stony_shore": "2024-12-13 03:10:08 +0000",
       "minecraft:dripstone_caves": "2024-12-11 23:15:44 +0000",
       "minecraft:swamp": "2024-12-11 05:53:47 +0000",
       "minecraft:cold_ocean": "2024-12-11 05:39:28 +0000",
@@ -25,6 +26,7 @@
       "minecraft:ocean": "2024-12-11 05:49:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-10 07:44:57 +0000",
       "minecraft:windswept_savanna": "2024-12-11 06:10:54 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-13 02:51:53 +0000",
       "minecraft:flower_forest": "2024-12-12 02:10:07 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 05:43:25 +0000",
       "minecraft:meadow": "2024-12-11 06:33:27 +0000",
@@ -2855,6 +2857,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-12-13 02:55:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-13 02:16:14 +0000"
@@ -2891,6 +2899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-13 02:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2024-12-13 02:16:14 +0000"
@@ -2906,6 +2920,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-13 02:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-13 02:57:55 +0000"
     },
     "done": true
   },
@@ -2927,6 +2947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-13 02:49:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-13 02:17:39 +0000"
@@ -2939,9 +2965,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 02:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-13 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-13 02:49:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-13 02:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-12-13 02:49:56 +0000"
     },
     "done": true
   },
