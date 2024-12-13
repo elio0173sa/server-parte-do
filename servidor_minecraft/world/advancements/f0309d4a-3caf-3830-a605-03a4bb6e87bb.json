@@ -2458,7 +2458,7 @@
   },
   "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "requirement": "2024-12-12 06:48:50 +0000"
+      "requirement": "2024-12-13 15:13:53 +0000"
     },
     "done": true
   },
@@ -3131,6 +3131,43 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2024-12-13 04:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-13 15:00:51 +0000",
+      "minecraft:warped_forest": "2024-12-13 15:00:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-13 15:00:08 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/technical/illusioner_kill": {
+    "criteria": {
+      "c1": "2024-12-13 15:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-13 15:00:08 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "illusioner": "2024-12-13 15:14:36 +0000"
+    },
+    "done": false
+  },
+  "1_splatus:ultris/illusionerkill": {
+    "criteria": {
+      "c1": "2024-12-13 15:14:36 +0000"
     },
     "done": true
   },

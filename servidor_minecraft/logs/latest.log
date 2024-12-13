@@ -264,3 +264,211 @@
 [15:00:28] [Server thread/INFO]: [Not Secure] <EmpaXG04> tenkiu
 [15:00:34] [Server thread/INFO]: [Not Secure] <pitulinaso> yur welcom
 [15:00:44] [Server thread/INFO]: [Not Secure] <pitulinaso> donde queda mi casa
+[15:01:38] [Server thread/INFO]: Locating element minecraft:fortress took 1 ms
+[15:01:59] [Server thread/INFO]: pitulinaso was slain by Enderman
+[15:02:03] [Server thread/INFO]: [Not Secure] <EmpaXG04> pajero
+[15:02:12] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1137, 37, -886, minecraft:the_nether
+[15:03:25] [Server thread/WARN]: violetfoxx moved too quickly! 5.617266600006133,0.7967356006687112,8.366745065746727
+[15:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[15:07:43] [Server thread/INFO]: violetfoxx was blown up by Creeper
+[15:07:58] [Server thread/INFO]: violetfoxx claimed a grave belonging to violetfoxx at 502, 67, -935, minecraft:overworld
+[15:10:26] [Worker-Main-10/WARN]: Empty height range: [0 absolute--16 absolute]
+[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=99, z=1251}
+[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=100, z=1251}
+[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=383, y=101, z=1251}
+[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=101, z=1251}
+[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=100, z=1251}
+[15:11:03] [Worker-Main-10/ERROR]: Hanging entity at invalid position: class_2338{x=384, y=99, z=1251}
+[15:11:09] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
+[15:11:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/9781, l='ServerLevel[world]', x=-740.70, y=-400.00, z=-587.60] died: Illusioner was killed
+[15:11:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/9782, l='ServerLevel[world]', x=-740.70, y=-400.00, z=-587.60] died: Illusioner was killed
+[15:11:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/9779, l='ServerLevel[world]', x=-734.70, y=-400.00, z=-576.95] died: Illusioner was killed
+[15:11:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/9780, l='ServerLevel[world]', x=-734.70, y=-400.00, z=-576.95] died: Illusioner was killed
+[15:11:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/9778, l='ServerLevel[world]', x=-730.33, y=-400.00, z=-574.88] died: Illusioner was killed
+[15:11:24] [Server thread/INFO]: Named entity class_1613['Illusioner'/9847, l='ServerLevel[world]', x=-729.37, y=-400.00, z=-570.07] died: Illusioner was killed
+[15:11:24] [Server thread/INFO]: Named entity class_1613['Illusioner'/9848, l='ServerLevel[world]', x=-729.74, y=-400.00, z=-575.22] died: Illusioner was killed
+[15:11:24] [Server thread/INFO]: Named entity class_1581['Illusioner'/9849, l='ServerLevel[world]', x=-729.74, y=-400.00, z=-575.22] died: Illusioner was killed
+[15:11:24] [Server thread/INFO]: Named entity class_1613['Illusioner'/9850, l='ServerLevel[world]', x=-732.70, y=-400.00, z=-573.69] died: Illusioner was killed
+[15:11:24] [Server thread/INFO]: Named entity class_1581['Illusioner'/9851, l='ServerLevel[world]', x=-732.70, y=-400.00, z=-573.69] died: Illusioner was killed
+[15:11:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/9902, l='ServerLevel[world]', x=-730.65, y=-400.00, z=-569.79] died: Illusioner was killed
+[15:11:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/9903, l='ServerLevel[world]', x=-721.76, y=-400.00, z=-562.89] died: Illusioner was killed
+[15:11:31] [Server thread/INFO]: Named entity class_1581['Illusioner'/9904, l='ServerLevel[world]', x=-721.76, y=-400.00, z=-562.89] died: Illusioner was killed
+[15:11:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/9905, l='ServerLevel[world]', x=-724.46, y=-400.00, z=-564.30] died: Illusioner was killed
+[15:11:31] [Server thread/INFO]: Named entity class_1581['Illusioner'/9906, l='ServerLevel[world]', x=-724.46, y=-400.00, z=-564.30] died: Illusioner was killed
+[15:11:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/9927, l='ServerLevel[world]', x=-726.38, y=-400.00, z=-567.44] died: Illusioner was killed whilst fighting Illusioner
+[15:11:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/9926, l='ServerLevel[world]', x=-726.00, y=-400.00, z=-567.46] died: Illusioner was killed
+[15:11:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/9928, l='ServerLevel[world]', x=-722.98, y=-400.00, z=-566.83] died: Illusioner was killed
+[15:11:36] [Server thread/INFO]: Named entity class_1581['Illusioner'/9929, l='ServerLevel[world]', x=-722.98, y=-400.00, z=-566.83] died: Illusioner was killed
+[15:11:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/9925, l='ServerLevel[world]', x=-720.93, y=-400.00, z=-570.33] died: Illusioner was killed
+[15:11:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/10021, l='ServerLevel[world]', x=-720.24, y=-400.00, z=-583.38] died: Illusioner was killed
+[15:11:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/10024, l='ServerLevel[world]', x=-717.44, y=-400.00, z=-577.72] died: Illusioner was killed
+[15:11:42] [Server thread/INFO]: Named entity class_1581['Illusioner'/10025, l='ServerLevel[world]', x=-717.44, y=-400.00, z=-577.72] died: Illusioner was killed
+[15:11:42] [Server thread/INFO]: Named entity class_1613['Illusioner'/10022, l='ServerLevel[world]', x=-716.75, y=-400.00, z=-577.78] died: Illusioner was killed
+[15:11:42] [Server thread/INFO]: Named entity class_1581['Illusioner'/10023, l='ServerLevel[world]', x=-716.75, y=-400.00, z=-577.78] died: Illusioner was killed
+[15:11:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/10056, l='ServerLevel[world]', x=-738.36, y=-400.00, z=-590.70] died: Illusioner was killed
+[15:11:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/10057, l='ServerLevel[world]', x=-738.36, y=-400.00, z=-590.70] died: Illusioner was killed
+[15:11:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/10055, l='ServerLevel[world]', x=-722.30, y=-400.00, z=-585.39] died: Illusioner was killed
+[15:11:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/10058, l='ServerLevel[world]', x=-713.12, y=-400.00, z=-594.49] died: Illusioner was killed
+[15:11:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/10059, l='ServerLevel[world]', x=-713.12, y=-400.00, z=-594.49] died: Illusioner was killed
+[15:11:46] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=99, z=1251}
+[15:11:46] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=101, z=1251}
+[15:11:46] [Worker-Main-15/ERROR]: Hanging entity at invalid position: class_2338{x=385, y=100, z=1251}
+[15:11:46] [Worker-Main-15/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:11:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/10158, l='ServerLevel[world]', x=-726.30, y=-400.00, z=-589.39] died: Illusioner was killed
+[15:11:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/10157, l='ServerLevel[world]', x=-720.30, y=-400.00, z=-583.39] died: Illusioner was killed
+[15:11:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/10159, l='ServerLevel[world]', x=-726.30, y=-400.00, z=-589.39] died: Illusioner was killed
+[15:11:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/10160, l='ServerLevel[world]', x=-723.71, y=-400.00, z=-580.53] died: Illusioner was killed
+[15:11:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/10161, l='ServerLevel[world]', x=-723.71, y=-400.00, z=-580.53] died: Illusioner was killed
+[15:11:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/10169, l='ServerLevel[world]', x=-726.95, y=-400.00, z=-585.83] died: Illusioner was killed
+[15:11:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/10170, l='ServerLevel[world]', x=-726.30, y=-400.00, z=-583.39] died: Illusioner was killed
+[15:11:53] [Server thread/INFO]: Named entity class_1581['Illusioner'/10171, l='ServerLevel[world]', x=-726.30, y=-400.00, z=-583.39] died: Illusioner was killed
+[15:11:53] [Server thread/INFO]: Named entity class_1613['Illusioner'/10172, l='ServerLevel[world]', x=-726.69, y=-400.00, z=-586.66] died: Illusioner was killed
+[15:11:53] [Server thread/INFO]: Named entity class_1581['Illusioner'/10173, l='ServerLevel[world]', x=-726.69, y=-400.00, z=-586.66] died: Illusioner was killed
+[15:11:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/10259, l='ServerLevel[world]', x=-722.95, y=-400.00, z=-593.83] died: Illusioner was killed
+[15:11:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/10260, l='ServerLevel[world]', x=-724.95, y=-400.00, z=-583.83] died: Illusioner was killed
+[15:11:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/10261, l='ServerLevel[world]', x=-724.95, y=-400.00, z=-583.83] died: Illusioner was killed
+[15:11:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/10262, l='ServerLevel[world]', x=-734.78, y=-400.00, z=-584.52] died: Illusioner was killed
+[15:11:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/10263, l='ServerLevel[world]', x=-734.78, y=-400.00, z=-584.52] died: Illusioner was killed
+[15:12:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/10297, l='ServerLevel[world]', x=-726.95, y=-400.00, z=-593.83] died: Illusioner was killed whilst fighting pitulinaso
+[15:12:05] [Server thread/INFO]: Named entity class_1581['Illusioner'/10298, l='ServerLevel[world]', x=-726.95, y=-400.00, z=-593.83] died: Illusioner was killed
+[15:12:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/10295, l='ServerLevel[world]', x=-716.95, y=-400.00, z=-599.83] died: Illusioner was killed
+[15:12:07] [Server thread/INFO]: Named entity class_1581['Illusioner'/10296, l='ServerLevel[world]', x=-716.95, y=-400.00, z=-599.83] died: Illusioner was killed
+[15:12:07] [Server thread/INFO]: Named entity class_1613['Illusioner'/10294, l='ServerLevel[world]', x=-719.18, y=-400.00, z=-590.01] died: Illusioner was killed
+[15:12:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/10394, l='ServerLevel[world]', x=-723.18, y=-400.00, z=-595.48] died: Illusioner was killed
+[15:12:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/10395, l='ServerLevel[world]', x=-735.48, y=-400.00, z=-595.04] died: Illusioner was killed
+[15:12:13] [Server thread/INFO]: Named entity class_1581['Illusioner'/10396, l='ServerLevel[world]', x=-735.48, y=-400.00, z=-595.04] died: Illusioner was killed
+[15:12:13] [Server thread/INFO]: Named entity class_1613['Illusioner'/10397, l='ServerLevel[world]', x=-717.18, y=-400.00, z=-600.01] died: Illusioner was killed
+[15:12:13] [Server thread/INFO]: Named entity class_1581['Illusioner'/10398, l='ServerLevel[world]', x=-717.18, y=-400.00, z=-600.01] died: Illusioner was killed
+[15:12:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/10451, l='ServerLevel[world]', x=-727.18, y=-400.00, z=-595.48] died: Illusioner was killed
+[15:12:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/10448, l='ServerLevel[world]', x=-721.18, y=-400.00, z=-597.48] died: Illusioner was killed
+[15:12:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/10449, l='ServerLevel[world]', x=-725.18, y=-400.00, z=-597.48] died: Illusioner was killed
+[15:12:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/10450, l='ServerLevel[world]', x=-725.18, y=-400.00, z=-597.48] died: Illusioner was killed
+[15:12:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/10452, l='ServerLevel[world]', x=-727.18, y=-400.00, z=-595.48] died: Illusioner was killed
+[15:12:27] [Server thread/INFO]: Named entity class_1613['Illusioner'/10571, l='ServerLevel[world]', x=-726.16, y=-400.00, z=-599.62] died: Illusioner was killed
+[15:12:27] [Server thread/INFO]: Named entity class_1613['Illusioner'/10572, l='ServerLevel[world]', x=-724.35, y=-400.00, z=-595.68] died: Illusioner was killed
+[15:12:27] [Server thread/INFO]: Named entity class_1581['Illusioner'/10573, l='ServerLevel[world]', x=-724.35, y=-400.00, z=-595.68] died: Illusioner was killed
+[15:12:27] [Server thread/INFO]: Named entity class_1613['Illusioner'/10574, l='ServerLevel[world]', x=-717.18, y=-400.00, z=-599.48] died: Illusioner was killed
+[15:12:27] [Server thread/INFO]: Named entity class_1581['Illusioner'/10575, l='ServerLevel[world]', x=-717.18, y=-400.00, z=-599.48] died: Illusioner was killed
+[15:12:30] [Server thread/INFO]: Named entity class_1613['Illusioner'/10614, l='ServerLevel[world]', x=-732.16, y=-400.00, z=-603.62] died: Illusioner was killed
+[15:12:30] [Server thread/INFO]: Named entity class_1613['Illusioner'/10615, l='ServerLevel[world]', x=-724.16, y=-400.00, z=-601.62] died: Illusioner was killed
+[15:12:30] [Server thread/INFO]: Named entity class_1581['Illusioner'/10616, l='ServerLevel[world]', x=-724.16, y=-400.00, z=-601.62] died: Illusioner was killed
+[15:12:30] [Server thread/INFO]: Named entity class_1613['Illusioner'/10617, l='ServerLevel[world]', x=-726.16, y=-400.00, z=-597.62] died: Illusioner was killed
+[15:12:30] [Server thread/INFO]: Named entity class_1581['Illusioner'/10618, l='ServerLevel[world]', x=-726.16, y=-400.00, z=-597.62] died: Illusioner was killed
+[15:12:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/10661, l='ServerLevel[world]', x=-738.16, y=-400.00, z=-601.62] died: Illusioner was killed
+[15:12:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/10662, l='ServerLevel[world]', x=-738.16, y=-400.00, z=-601.62] died: Illusioner was killed
+[15:12:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/10659, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-609.62] died: Illusioner was killed
+[15:12:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/10660, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-609.62] died: Illusioner was killed
+[15:12:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/10658, l='ServerLevel[world]', x=-734.16, y=-400.00, z=-601.62] died: Illusioner was killed
+[15:12:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/10682, l='ServerLevel[world]', x=-736.16, y=-400.00, z=-607.62] died: Illusioner was killed
+[15:12:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/10683, l='ServerLevel[world]', x=-740.16, y=-400.00, z=-605.62] died: Illusioner was killed
+[15:12:33] [Server thread/INFO]: Named entity class_1581['Illusioner'/10684, l='ServerLevel[world]', x=-740.16, y=-400.00, z=-605.62] died: Illusioner was killed
+[15:12:33] [Server thread/INFO]: Named entity class_1613['Illusioner'/10685, l='ServerLevel[world]', x=-734.16, y=-400.00, z=-605.62] died: Illusioner was killed
+[15:12:33] [Server thread/INFO]: Named entity class_1581['Illusioner'/10686, l='ServerLevel[world]', x=-734.16, y=-400.00, z=-605.62] died: Illusioner was killed
+[15:12:38] [Server thread/INFO]: Named entity class_1613['Illusioner'/10754, l='ServerLevel[world]', x=-736.16, y=-400.00, z=-607.62] died: Illusioner was killed
+[15:12:38] [Server thread/INFO]: Named entity class_1613['Illusioner'/10755, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-609.62] died: Illusioner was killed
+[15:12:38] [Server thread/INFO]: Named entity class_1613['Illusioner'/10757, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-611.62] died: Illusioner was killed
+[15:12:38] [Server thread/INFO]: Named entity class_1581['Illusioner'/10756, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-609.62] died: Illusioner was killed
+[15:12:38] [Server thread/INFO]: Named entity class_1581['Illusioner'/10758, l='ServerLevel[world]', x=-730.16, y=-400.00, z=-611.62] died: Illusioner was killed
+[15:12:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/11074, l='ServerLevel[world]', x=-742.16, y=-400.00, z=-607.62] died: Illusioner was killed
+[15:12:43] [Server thread/INFO]: Named entity class_1581['Illusioner'/11075, l='ServerLevel[world]', x=-742.16, y=-400.00, z=-607.62] died: Illusioner was killed
+[15:12:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/11076, l='ServerLevel[world]', x=-742.16, y=-400.00, z=-605.62] died: Illusioner was killed
+[15:12:43] [Server thread/INFO]: Named entity class_1581['Illusioner'/11077, l='ServerLevel[world]', x=-742.16, y=-400.00, z=-605.62] died: Illusioner was killed
+[15:12:43] [Server thread/INFO]: Named entity class_1613['Illusioner'/11073, l='ServerLevel[world]', x=-732.72, y=-400.00, z=-609.49] died: Illusioner was killed
+[15:12:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/11082, l='ServerLevel[world]', x=-730.47, y=-400.00, z=-609.55] died: Illusioner was killed
+[15:12:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/11085, l='ServerLevel[world]', x=-722.51, y=-400.00, z=-608.75] died: Illusioner was killed
+[15:12:46] [Server thread/INFO]: Named entity class_1581['Illusioner'/11086, l='ServerLevel[world]', x=-722.51, y=-400.00, z=-608.75] died: Illusioner was killed
+[15:12:46] [Server thread/INFO]: Named entity class_1613['Illusioner'/11083, l='ServerLevel[world]', x=-727.42, y=-400.00, z=-604.83] died: Illusioner was killed
+[15:12:46] [Server thread/INFO]: Named entity class_1581['Illusioner'/11084, l='ServerLevel[world]', x=-727.42, y=-400.00, z=-604.83] died: Illusioner was killed
+[15:12:47] [Server thread/INFO]: Named entity class_1613['Illusioner'/11126, l='ServerLevel[world]', x=-728.47, y=-400.00, z=-609.55] died: Illusioner was killed whilst fighting pitulinaso
+[15:12:47] [Server thread/INFO]: Named entity class_1581['Illusioner'/11127, l='ServerLevel[world]', x=-728.47, y=-400.00, z=-609.55] died: Illusioner was killed
+[15:12:52] [Server thread/INFO]: Named entity class_1613['Illusioner'/11123, l='ServerLevel[world]', x=-732.74, y=-400.00, z=-604.94] died: Illusioner was killed whilst fighting pitulinaso
+[15:12:52] [Server thread/INFO]: Named entity class_1613['Illusioner'/11124, l='ServerLevel[world]', x=-735.47, y=-400.00, z=-606.70] died: Illusioner was killed
+[15:12:52] [Server thread/INFO]: Named entity class_1581['Illusioner'/11125, l='ServerLevel[world]', x=-735.47, y=-400.00, z=-606.70] died: Illusioner was killed
+[15:12:57] [Server thread/INFO]: Named entity class_1613['Illusioner'/11189, l='ServerLevel[world]', x=-733.28, y=-400.00, z=-610.78] died: Illusioner was killed whilst fighting Illusioner
+[15:12:57] [Server thread/INFO]: Named entity class_1581['Illusioner'/11190, l='ServerLevel[world]', x=-733.28, y=-400.00, z=-610.78] died: Illusioner was killed
+[15:13:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11191, l='ServerLevel[world]', x=-736.38, y=-400.00, z=-608.12] died: Illusioner was killed
+[15:13:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/11192, l='ServerLevel[world]', x=-736.38, y=-400.00, z=-608.12] died: Illusioner was killed
+[15:13:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11188, l='ServerLevel[world]', x=-730.97, y=-400.00, z=-597.46] died: Illusioner was killed
+[15:13:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/11228, l='ServerLevel[world]', x=-729.18, y=-400.00, z=-593.11] died: Illusioner was killed
+[15:13:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/11231, l='ServerLevel[world]', x=-728.71, y=-400.00, z=-593.61] died: Illusioner was killed
+[15:13:10] [Server thread/INFO]: Named entity class_1581['Illusioner'/11232, l='ServerLevel[world]', x=-728.71, y=-400.00, z=-593.61] died: Illusioner was killed
+[15:13:10] [Server thread/INFO]: Named entity class_1613['Illusioner'/11229, l='ServerLevel[world]', x=-723.41, y=-400.00, z=-596.11] died: Illusioner was killed
+[15:13:10] [Server thread/INFO]: Named entity class_1581['Illusioner'/11230, l='ServerLevel[world]', x=-723.41, y=-400.00, z=-596.11] died: Illusioner was killed
+[15:13:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/11313, l='ServerLevel[world]', x=-729.34, y=-400.00, z=-603.20] died: Illusioner was killed
+[15:13:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/11315, l='ServerLevel[world]', x=-723.23, y=-400.00, z=-599.35] died: Illusioner was killed
+[15:13:17] [Server thread/INFO]: Named entity class_1581['Illusioner'/11316, l='ServerLevel[world]', x=-723.23, y=-400.00, z=-599.35] died: Illusioner was killed
+[15:13:17] [Server thread/INFO]: Named entity class_1613['Illusioner'/11312, l='ServerLevel[world]', x=-727.37, y=-400.00, z=-593.46] died: Illusioner was killed
+[15:13:17] [Server thread/INFO]: Named entity class_1581['Illusioner'/11314, l='ServerLevel[world]', x=-729.34, y=-400.00, z=-603.20] died: Illusioner was killed
+[15:13:21] [Server thread/INFO]: Named entity class_1613['Illusioner'/11333, l='ServerLevel[world]', x=-724.74, y=-400.00, z=-600.87] died: Illusioner was killed
+[15:13:21] [Server thread/INFO]: Named entity class_1581['Illusioner'/11334, l='ServerLevel[world]', x=-724.74, y=-400.00, z=-600.87] died: Illusioner was killed
+[15:13:21] [Server thread/INFO]: Named entity class_1613['Illusioner'/11332, l='ServerLevel[world]', x=-723.74, y=-400.00, z=-592.89] died: Illusioner was killed
+[15:13:21] [Server thread/INFO]: Named entity class_1613['Illusioner'/11335, l='ServerLevel[world]', x=-725.94, y=-400.00, z=-602.93] died: Illusioner was killed
+[15:13:21] [Server thread/INFO]: Named entity class_1581['Illusioner'/11336, l='ServerLevel[world]', x=-725.94, y=-400.00, z=-602.93] died: Illusioner was killed
+[15:13:22] [Server thread/INFO]: Named entity class_1613['Illusioner'/11381, l='ServerLevel[world]', x=-721.60, y=-400.00, z=-596.01] died: Illusioner was killed whilst fighting Illusioner
+[15:13:22] [Server thread/INFO]: Named entity class_1581['Illusioner'/11382, l='ServerLevel[world]', x=-721.60, y=-400.00, z=-596.01] died: Illusioner was killed
+[15:13:25] [Server thread/INFO]: Named entity class_1613['Illusioner'/11378, l='ServerLevel[world]', x=-725.96, y=-400.00, z=-596.32] died: Illusioner was killed
+[15:13:25] [Server thread/INFO]: Named entity class_1613['Illusioner'/11379, l='ServerLevel[world]', x=-732.69, y=-400.00, z=-598.24] died: Illusioner was killed
+[15:13:25] [Server thread/INFO]: Named entity class_1581['Illusioner'/11380, l='ServerLevel[world]', x=-732.69, y=-400.00, z=-598.24] died: Illusioner was killed
+[15:13:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/11465, l='ServerLevel[world]', x=-747.88, y=-400.00, z=-583.69] died: Illusioner was killed
+[15:13:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/11466, l='ServerLevel[world]', x=-747.88, y=-400.00, z=-583.69] died: Illusioner was killed
+[15:13:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/11462, l='ServerLevel[world]', x=-721.63, y=-400.00, z=-600.12] died: Illusioner was killed
+[15:13:32] [Server thread/INFO]: Named entity class_1613['Illusioner'/11463, l='ServerLevel[world]', x=-722.59, y=-400.00, z=-586.89] died: Illusioner was killed
+[15:13:32] [Server thread/INFO]: Named entity class_1581['Illusioner'/11464, l='ServerLevel[world]', x=-722.59, y=-400.00, z=-586.89] died: Illusioner was killed
+[15:13:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/11567, l='ServerLevel[world]', x=-723.63, y=-400.00, z=-598.12] died: Illusioner was killed
+[15:13:40] [Server thread/INFO]: Named entity class_1581['Illusioner'/11568, l='ServerLevel[world]', x=-723.63, y=-400.00, z=-598.12] died: Illusioner was killed
+[15:13:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/11566, l='ServerLevel[world]', x=-715.63, y=-400.00, z=-592.12] died: Illusioner was killed
+[15:13:40] [Server thread/INFO]: Named entity class_1613['Illusioner'/11569, l='ServerLevel[world]', x=-717.63, y=-400.00, z=-602.12] died: Illusioner was killed
+[15:13:40] [Server thread/INFO]: Named entity class_1581['Illusioner'/11570, l='ServerLevel[world]', x=-717.63, y=-400.00, z=-602.12] died: Illusioner was killed
+[15:13:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/11591, l='ServerLevel[world]', x=-720.85, y=-400.00, z=-593.34] died: Illusioner was killed
+[15:13:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/11592, l='ServerLevel[world]', x=-720.85, y=-400.00, z=-593.34] died: Illusioner was killed
+[15:13:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/11590, l='ServerLevel[world]', x=-714.57, y=-400.00, z=-600.46] died: Illusioner was killed
+[15:13:45] [Server thread/INFO]: Named entity class_1613['Illusioner'/11593, l='ServerLevel[world]', x=-715.42, y=-400.00, z=-593.68] died: Illusioner was killed
+[15:13:45] [Server thread/INFO]: Named entity class_1581['Illusioner'/11594, l='ServerLevel[world]', x=-715.42, y=-400.00, z=-593.68] died: Illusioner was killed
+[15:13:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/11660, l='ServerLevel[world]', x=-722.56, y=-400.00, z=-596.46] died: Illusioner was killed
+[15:13:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/11663, l='ServerLevel[world]', x=-713.10, y=-400.00, z=-599.00] died: Illusioner was killed
+[15:13:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/11664, l='ServerLevel[world]', x=-713.10, y=-400.00, z=-599.00] died: Illusioner was killed
+[15:13:50] [Server thread/INFO]: Named entity class_1613['Illusioner'/11661, l='ServerLevel[world]', x=-718.33, y=-400.00, z=-592.57] died: Illusioner was killed
+[15:13:50] [Server thread/INFO]: Named entity class_1581['Illusioner'/11662, l='ServerLevel[world]', x=-718.33, y=-400.00, z=-592.57] died: Illusioner was killed
+[15:13:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/11720, l='ServerLevel[world]', x=-721.31, y=-400.00, z=-603.56] died: Illusioner was killed
+[15:13:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/11721, l='ServerLevel[world]', x=-721.31, y=-400.00, z=-603.56] died: Illusioner was killed
+[15:13:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/11718, l='ServerLevel[world]', x=-721.43, y=-400.00, z=-607.39] died: Illusioner was killed
+[15:13:58] [Server thread/INFO]: Named entity class_1581['Illusioner'/11719, l='ServerLevel[world]', x=-721.43, y=-400.00, z=-607.39] died: Illusioner was killed
+[15:13:58] [Server thread/INFO]: Named entity class_1613['Illusioner'/11717, l='ServerLevel[world]', x=-719.80, y=-400.00, z=-585.17] died: Illusioner was killed
+[15:14:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11750, l='ServerLevel[world]', x=-723.77, y=-400.00, z=-585.18] died: Illusioner was killed
+[15:14:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11751, l='ServerLevel[world]', x=-719.36, y=-400.00, z=-582.30] died: Illusioner was killed
+[15:14:02] [Server thread/INFO]: Named entity class_1613['Illusioner'/11753, l='ServerLevel[world]', x=-718.72, y=-400.00, z=-586.00] died: Illusioner was killed
+[15:14:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/11752, l='ServerLevel[world]', x=-719.36, y=-400.00, z=-582.30] died: Illusioner was killed
+[15:14:02] [Server thread/INFO]: Named entity class_1581['Illusioner'/11754, l='ServerLevel[world]', x=-718.72, y=-400.00, z=-586.00] died: Illusioner was killed
+[15:14:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/11786, l='ServerLevel[world]', x=-726.77, y=-400.00, z=-597.25] died: Illusioner was killed
+[15:14:05] [Server thread/INFO]: Named entity class_1581['Illusioner'/11787, l='ServerLevel[world]', x=-726.77, y=-400.00, z=-597.25] died: Illusioner was killed
+[15:14:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/11785, l='ServerLevel[world]', x=-722.53, y=-400.00, z=-583.31] died: Illusioner was killed
+[15:14:05] [Server thread/INFO]: Named entity class_1613['Illusioner'/11788, l='ServerLevel[world]', x=-719.82, y=-400.00, z=-590.66] died: Illusioner was killed
+[15:14:05] [Server thread/INFO]: Named entity class_1581['Illusioner'/11789, l='ServerLevel[world]', x=-719.82, y=-400.00, z=-590.66] died: Illusioner was killed
+[15:14:07] [Server thread/INFO]: pitulinaso drowned
+[15:14:12] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
+[15:14:23] [Server thread/INFO]: Named entity class_1613['Illusioner'/12403, l='ServerLevel[world]', x=-720.53, y=-400.00, z=-587.31] died: Illusioner was killed
+[15:14:23] [Server thread/INFO]: Named entity class_1581['Illusioner'/12405, l='ServerLevel[world]', x=-722.53, y=-400.00, z=-579.31] died: Illusioner was killed
+[15:14:23] [Server thread/INFO]: Named entity class_1581['Illusioner'/12407, l='ServerLevel[world]', x=-720.53, y=-400.00, z=-585.31] died: Illusioner was killed
+[15:14:23] [Server thread/INFO]: Named entity class_1613['Illusioner'/12406, l='ServerLevel[world]', x=-726.53, y=-400.00, z=-583.31] died: Illusioner was killed
+[15:14:23] [Server thread/INFO]: Named entity class_1613['Illusioner'/12404, l='ServerLevel[world]', x=-718.53, y=-400.00, z=-587.31] died: Illusioner was killed
+[15:14:26] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at -724, 60, -586, minecraft:overworld
+[15:14:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/12598, l='ServerLevel[world]', x=-722.41, y=-400.00, z=-584.93] died: Illusioner was killed
+[15:14:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/12599, l='ServerLevel[world]', x=-711.89, y=-400.00, z=-601.99] died: Illusioner was killed
+[15:14:31] [Server thread/INFO]: Named entity class_1581['Illusioner'/12600, l='ServerLevel[world]', x=-711.89, y=-400.00, z=-601.99] died: Illusioner was killed
+[15:14:31] [Server thread/INFO]: Named entity class_1613['Illusioner'/12601, l='ServerLevel[world]', x=-709.30, y=-400.00, z=-560.30] died: Illusioner was killed
+[15:14:31] [Server thread/INFO]: Named entity class_1581['Illusioner'/12602, l='ServerLevel[world]', x=-709.30, y=-400.00, z=-560.30] died: Illusioner was killed
+[15:14:34] [Server thread/INFO]: Named entity class_1581['Illusioner'/12775, l='ServerLevel[world]', x=-722.48, y=-400.00, z=-583.77] died: Illusioner was killed whilst fighting Illusioner
+[15:14:34] [Server thread/INFO]: Named entity class_1613['Illusioner'/12774, l='ServerLevel[world]', x=-722.61, y=-400.00, z=-583.39] died: Illusioner was killed
+[15:14:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/12771, l='ServerLevel[world]', x=-728.41, y=-400.00, z=-582.33] died: Illusioner was killed
+[15:14:36] [Server thread/INFO]: Named entity class_1613['Illusioner'/12772, l='ServerLevel[world]', x=-726.99, y=-400.00, z=-583.30] died: Illusioner was killed
+[15:14:36] [Server thread/INFO]: Named entity class_1581['Illusioner'/12773, l='ServerLevel[world]', x=-726.99, y=-400.00, z=-583.30] died: Illusioner was killed
+[15:14:36] [Server thread/INFO]: pitulinaso has made the advancement [Shows Over!]
+[15:16:31] [Server thread/INFO]: EmpaXG04 fell from a high place
+[15:16:37] [Server thread/INFO]: [Not Secure] <EmpaXG04> dios
+[15:16:41] [Server thread/INFO]: [Not Secure] <EmpaXG04> me cague todo
+[15:16:46] [Server thread/INFO]: EmpaXG04 claimed a grave belonging to EmpaXG04 at 703, 37, -1204, minecraft:the_nether
+[15:16:56] [Server thread/INFO]: EmpaXG04 has completed the challenge [Hot Tourist Destinations]
+[15:17:39] [Server thread/INFO]: EmpaXG04 has made the advancement [A Terrible Fortress]
+[15:21:29] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-517, y=91, z=443}
+[15:21:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-517, y=91, z=443} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[15:21:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=-517, y=91, z=443}

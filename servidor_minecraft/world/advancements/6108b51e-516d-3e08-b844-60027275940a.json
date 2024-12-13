@@ -3317,11 +3317,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-13 15:16:56 +0000",
       "minecraft:nether_wastes": "2024-12-13 04:06:50 +0000",
       "minecraft:soul_sand_valley": "2024-12-13 03:58:19 +0000",
-      "minecraft:warped_forest": "2024-12-13 04:30:38 +0000"
+      "minecraft:warped_forest": "2024-12-13 04:30:38 +0000",
+      "minecraft:basalt_deltas": "2024-12-13 15:00:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
@@ -3344,6 +3346,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2024-12-13 04:33:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-13 15:00:18 +0000"
     },
     "done": true
   },
