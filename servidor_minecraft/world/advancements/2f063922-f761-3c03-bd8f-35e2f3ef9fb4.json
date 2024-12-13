@@ -2849,6 +2849,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2024-12-13 03:20:28 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/tools/waystone": {
     "criteria": {
       "has_item": "2024-12-13 03:10:43 +0000"
