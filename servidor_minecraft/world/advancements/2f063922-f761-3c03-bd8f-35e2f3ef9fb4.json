@@ -2819,27 +2819,9 @@
     },
     "done": true
   },
-  "adventurez:recipes/ender_flute_recipe": {
-    "criteria": {
-      "got_the_ender_pearl": "2024-12-13 03:10:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-13 02:18:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-13 02:49:20 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/technical/used_shield": {
-    "criteria": {
-      "requirement": "2024-12-13 02:49:03 +0000"
     },
     "done": true
   },
@@ -2849,15 +2831,33 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/white_coffin": {
+  "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "has_item": "2024-12-13 03:20:28 +0000"
+      "requirement": "2024-12-13 02:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-13 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2024-12-13 03:10:43 +0000"
     },
     "done": true
   },
   "bewitchment:recipes/tools/waystone": {
     "criteria": {
       "has_item": "2024-12-13 03:10:43 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/white_coffin": {
+    "criteria": {
+      "has_item": "2024-12-13 03:20:28 +0000"
     },
     "done": true
   },
