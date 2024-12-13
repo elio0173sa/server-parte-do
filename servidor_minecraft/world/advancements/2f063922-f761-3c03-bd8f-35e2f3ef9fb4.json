@@ -2692,6 +2692,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_elder_chest": {
+    "criteria": {
+      "has_item": "2024-12-13 00:52:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2024-12-13 00:37:27 +0000"
@@ -2707,6 +2713,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-12 23:46:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-13 00:52:11 +0000"
     },
     "done": true
   },
@@ -2728,6 +2740,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/redstone/trapped_juniper_chest": {
+    "criteria": {
+      "has_item": "2024-12-13 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_cypress_chest": {
+    "criteria": {
+      "has_item": "2024-12-13 00:52:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2024-12-13 00:45:37 +0000"
@@ -2743,6 +2767,12 @@
   "adventurez:recipes/deer_venison": {
     "criteria": {
       "got_the_venison": "2024-12-12 23:52:43 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/trapped_dragons_blood_chest": {
+    "criteria": {
+      "has_item": "2024-12-13 00:52:11 +0000"
     },
     "done": true
   },
