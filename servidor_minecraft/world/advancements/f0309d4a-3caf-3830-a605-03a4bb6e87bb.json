@@ -3116,12 +3116,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2024-12-13 04:38:51 +0000"
-    },
-    "done": true
-  },
   "adventurez:recipes/rhino_leather_recipe": {
     "criteria": {
       "got_the_rhino_leather": "2024-12-13 04:33:00 +0000"
@@ -3131,6 +3125,12 @@
   "adventurez:recipes/rhino_meat": {
     "criteria": {
       "got_the_rhino_meat": "2024-12-13 04:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-12-13 04:38:51 +0000"
     },
     "done": true
   },
