@@ -3349,9 +3349,51 @@
     },
     "done": true
   },
+  "1_splatus:ultris/blazepath/blazetower": {
+    "criteria": {
+      "c1": "2024-12-13 15:23:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2024-12-13 15:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-13 15:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-13 15:23:09 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/dragons_blood_planks": {
+    "criteria": {
+      "has_item": "2024-12-13 15:25:49 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/dragons_blood_wood": {
+    "criteria": {
+      "has_item": "2024-12-13 15:25:49 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/dragons_blood_broom": {
+    "criteria": {
+      "has_item": "2024-12-13 15:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-13 15:17:39 +0000"
     },
     "done": true
   },

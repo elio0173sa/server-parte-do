@@ -472,3 +472,22 @@
 [15:21:29] [pool-4-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-517, y=91, z=443}
 [15:21:30] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=-517, y=91, z=443} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [15:21:30] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location class_2338{x=-517, y=91, z=443}
+[15:22:35] [Server thread/INFO]: [pitulinaso: Set the weather to clear]
+[15:23:01] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
+[15:23:01] [Server thread/INFO]: EmpaXG04 has made the advancement [The Kings Residence]
+[15:23:35] [Server thread/INFO]: [Not Secure] <EmpaXG04> LO LOGRE LPM
+[15:23:38] [Server thread/INFO]: [Not Secure] <EmpaXG04> LO TENGO
+[15:23:55] [Server thread/INFO]: [Not Secure] <EmpaXG04> amigo, una nether fort con un solo cofre y justo lo tenia
+[15:24:04] [Server thread/INFO]: [Not Secure] <violetfoxx> encontraste la piedra filosofal chico?
+[15:24:14] [Server thread/INFO]: [Not Secure] <EmpaXG04> encontre la piedra muchachos
+[15:24:20] [Server thread/INFO]: [Not Secure] <EmpaXG04> che, alguien tiene arena de almas?
+[15:24:34] [Worker-Main-10/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[15:24:43] [Server thread/INFO]: [Not Secure] <violetfoxx> te sirve arena comun?
+[15:24:51] [Server thread/INFO]: [Not Secure] <violetfoxx> deaa
+[15:24:56] [Server thread/INFO]: [Not Secure] <EmpaXG04> nop, es para las verrugas, pero es lo de menos
+[15:25:07] [Server thread/INFO]: [Not Secure] <violetfoxx> naonao io no tengo mano
+[15:26:53] [Server thread/INFO]: pitulinaso fell from a high place
+[15:27:05] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at -487, 160, 734, minecraft:overworld
+[15:28:33] [Server thread/INFO]: pitulinaso was slain by Zombie
+[15:31:14] [Server thread/INFO]: EmpaXG04 lost connection: Disconnected
+[15:31:14] [Server thread/INFO]: EmpaXG04 left the game
