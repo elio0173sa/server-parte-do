@@ -6,3 +6,13 @@
 [00:05:36] [Server thread/INFO]: [violetfoxx: Set own game mode to Survival Mode]
 [01:03:05] [Server thread/INFO]: violetfoxx lost connection: Disconnected
 [01:03:05] [Server thread/INFO]: violetfoxx left the game
+[01:39:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:39:46] [Server thread/INFO]: ghjkk<--[HERE]
+[01:41:43] [Server thread/INFO]: EmpaXG04[/172.25.58.124:65302] logged in with entity id 21517 at (-1158.866379655272, 75.0, -1725.2609855022731)
+[01:41:43] [Server thread/INFO]: Syncing config to EmpaXG04 (6108b51e-516d-3e08-b844-60027275940a)
+[01:41:43] [Server thread/INFO]: EmpaXG04 joined the game
+[01:41:43] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player EmpaXG04. Claiming: GRAVE / Robbing: INVENTORY
+[01:42:04] [Server thread/INFO]: pitulinaso[/172.25.32.15:57392] logged in with entity id 21718 at (1222.7279992793747, 64.0, 153.29262128686963)
+[01:42:04] [Server thread/INFO]: Syncing config to pitulinaso (f0309d4a-3caf-3830-a605-03a4bb6e87bb)
+[01:42:04] [Server thread/INFO]: pitulinaso joined the game
+[01:42:05] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player pitulinaso. Claiming: GRAVE / Robbing: INVENTORY
