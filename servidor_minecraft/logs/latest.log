@@ -1006,3 +1006,8 @@
 [18:55:08] [Server thread/INFO]: violetfoxx left the game
 [18:59:06] [Server thread/INFO]: EmpaXG04 lost connection: Disconnected
 [18:59:06] [Server thread/INFO]: EmpaXG04 left the game
+[19:15:38] [Server thread/INFO]: pitulinaso claimed a grave belonging to pitulinaso at 1241, 63, 289, minecraft:overworld
+[19:16:35] [Server thread/INFO]: EmpaXG04[/172.25.58.124:65183] logged in with entity id 114877 at (-1158.2171002046723, 37.0, -1721.5438941139803)
+[19:16:35] [Server thread/INFO]: Syncing config to EmpaXG04 (6108b51e-516d-3e08-b844-60027275940a)
+[19:16:35] [Server thread/INFO]: EmpaXG04 joined the game
+[19:16:36] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player EmpaXG04. Claiming: GRAVE / Robbing: INVENTORY
