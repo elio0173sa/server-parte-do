@@ -2457,12 +2457,6 @@
     },
     "done": true
   },
-  "1_splatus:ultris/technical/used_shield": {
-    "criteria": {
-      "requirement": "2024-12-13 15:13:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-12 06:50:16 +0000"
@@ -3135,15 +3129,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_kelp": "2024-12-13 16:13:18 +0000"
+      "entered_nether": "2024-12-13 15:00:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_kelp": "2024-12-13 16:13:18 +0000"
+      "entered_nether": "2024-12-13 15:00:08 +0000"
     },
     "done": true
   },
@@ -3154,27 +3148,15 @@
     },
     "done": false
   },
-  "minecraft:story/enter_the_nether": {
+  "1_splatus:ultris/technical/used_shield": {
     "criteria": {
-      "entered_nether": "2024-12-13 15:00:08 +0000"
+      "requirement": "2024-12-13 15:13:53 +0000"
     },
     "done": true
   },
   "1_splatus:ultris/technical/illusioner_kill": {
     "criteria": {
       "c1": "2024-12-13 15:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2024-12-13 16:13:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-13 15:00:08 +0000"
     },
     "done": true
   },
@@ -3187,6 +3169,24 @@
   "1_splatus:ultris/illusionerkill": {
     "criteria": {
       "c1": "2024-12-13 15:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-13 16:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-13 16:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-13 16:13:18 +0000"
     },
     "done": true
   },
